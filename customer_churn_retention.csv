@@ -1,0 +1,1001 @@
+CustomerID,SignupDate,TenureMonths,Plan,Contract,MonthlyCharges,PaymentMethod,InternetService,TechSupport,Churn,ChurnDate,ChurnReason
+CUST0001,2022-05-11,39,Basic,One year,13.88,Bank transfer,DSL,No,Yes,2025-07-24,Competitor
+CUST0002,2025-02-04,36,Basic,Month-to-month,23.54,Electronic check,Fiber optic,No,Yes,2028-01-20,Price
+CUST0003,2024-08-14,27,Basic,Month-to-month,12.99,PayPal,None,No,No,,
+CUST0004,2023-10-04,43,Basic,Month-to-month,17.57,Electronic check,Fiber optic,No,Yes,2027-04-16,Support
+CUST0005,2023-09-25,7,Pro,Two year,46.07,Bank transfer,Fiber optic,No,Yes,2024-04-22,Price
+CUST0006,2025-06-08,45,Basic,One year,19.82,Electronic check,None,Yes,No,,
+CUST0007,2022-05-06,41,Enterprise,Month-to-month,95.8,Bank transfer,DSL,No,Yes,2025-09-17,Price
+CUST0008,2024-10-15,25,Basic,One year,17.65,PayPal,Fiber optic,No,Yes,2026-11-04,Support
+CUST0009,2022-10-22,36,Pro,Month-to-month,47.82,PayPal,DSL,Yes,No,,
+CUST0010,2022-05-18,25,Basic,Month-to-month,15.33,PayPal,Fiber optic,No,No,,
+CUST0011,2024-02-09,13,Pro,Month-to-month,51.43,PayPal,Fiber optic,No,Yes,2025-03-05,Product features
+CUST0012,2025-11-26,39,Pro,Two year,50.19,Bank transfer,DSL,No,No,,
+CUST0013,2024-12-10,12,Basic,One year,18.56,PayPal,DSL,Yes,Yes,2025-12-05,Moved/Not needed
+CUST0014,2025-01-17,16,Enterprise,One year,96.85,Electronic check,Fiber optic,No,Yes,2026-05-12,Moved/Not needed
+CUST0015,2024-11-14,25,Basic,Month-to-month,22.98,Bank transfer,DSL,No,No,,
+CUST0016,2025-02-22,41,Basic,Month-to-month,17.82,PayPal,Fiber optic,Yes,No,,
+CUST0017,2024-01-20,19,Pro,One year,47.47,Credit card,Fiber optic,Yes,No,,
+CUST0018,2022-07-07,24,Pro,Month-to-month,49.52,Bank transfer,None,Yes,No,,
+CUST0019,2025-05-11,2,Basic,Two year,27.48,Electronic check,Fiber optic,Yes,Yes,2025-07-10,Moved/Not needed
+CUST0020,2023-10-21,6,Basic,One year,12.3,PayPal,DSL,No,No,,
+CUST0021,2024-01-02,3,Enterprise,Month-to-month,102.85,Credit card,DSL,No,Yes,2024-04-01,Moved/Not needed
+CUST0022,2023-06-26,4,Pro,One year,39.53,PayPal,DSL,Yes,Yes,2023-10-24,Support
+CUST0023,2022-09-24,42,Enterprise,Two year,100.09,Electronic check,Fiber optic,Yes,No,,
+CUST0024,2025-09-16,41,Pro,Month-to-month,56.88,Credit card,None,No,Yes,2029-01-28,Competitor
+CUST0025,2025-02-15,40,Pro,One year,51.44,Credit card,DSL,Yes,No,,
+CUST0026,2024-07-29,3,Basic,Two year,19.85,Bank transfer,DSL,No,No,,
+CUST0027,2023-08-11,4,Enterprise,Month-to-month,96.2,PayPal,Fiber optic,Yes,Yes,2023-12-09,Price
+CUST0028,2025-04-17,14,Basic,Two year,19.16,Bank transfer,Fiber optic,Yes,No,,
+CUST0029,2024-03-07,28,Pro,Month-to-month,47.74,Electronic check,Fiber optic,No,Yes,2026-06-25,Moved/Not needed
+CUST0030,2023-10-10,17,Basic,One year,15.07,Electronic check,Fiber optic,Yes,No,,
+CUST0031,2023-10-21,24,Pro,One year,47.55,PayPal,Fiber optic,No,Yes,2025-10-10,Price
+CUST0032,2022-11-28,9,Pro,One year,49.99,Bank transfer,DSL,Yes,Yes,2023-08-25,Moved/Not needed
+CUST0033,2022-05-15,36,Pro,Month-to-month,45.16,Credit card,DSL,No,Yes,2025-04-29,Price
+CUST0034,2024-03-21,16,Enterprise,One year,94.97,Electronic check,Fiber optic,No,No,,
+CUST0035,2025-07-21,4,Basic,Month-to-month,12.2,Electronic check,Fiber optic,No,Yes,2025-11-18,Support
+CUST0036,2022-04-04,36,Pro,Month-to-month,50.95,Bank transfer,DSL,Yes,No,,
+CUST0037,2025-06-07,44,Basic,Month-to-month,21.73,PayPal,Fiber optic,No,Yes,2029-01-17,Support
+CUST0038,2025-04-24,1,Basic,One year,20.16,Electronic check,None,No,Yes,2025-05-24,Moved/Not needed
+CUST0039,2023-02-09,21,Basic,Month-to-month,23.83,PayPal,Fiber optic,Yes,Yes,2024-10-31,Price
+CUST0040,2024-07-11,40,Basic,Month-to-month,19.44,Credit card,Fiber optic,Yes,Yes,2027-10-24,Support
+CUST0041,2022-08-30,34,Basic,Two year,20.96,PayPal,Fiber optic,No,No,,
+CUST0042,2025-01-12,42,Pro,Month-to-month,50.52,Electronic check,None,Yes,Yes,2028-06-25,Support
+CUST0043,2024-10-20,20,Pro,Month-to-month,48.54,Electronic check,Fiber optic,No,No,,
+CUST0044,2023-06-02,18,Pro,Month-to-month,46.35,Bank transfer,DSL,No,Yes,2024-11-23,Moved/Not needed
+CUST0045,2022-04-10,35,Basic,Month-to-month,30.07,PayPal,Fiber optic,Yes,No,,
+CUST0046,2025-11-19,8,Basic,One year,16.74,Bank transfer,Fiber optic,No,No,,
+CUST0047,2023-10-14,12,Basic,Month-to-month,15.67,PayPal,DSL,No,No,,
+CUST0048,2025-07-28,29,Pro,Month-to-month,51.17,Credit card,Fiber optic,Yes,No,,
+CUST0049,2024-09-17,33,Enterprise,Two year,100.26,Bank transfer,Fiber optic,No,No,,
+CUST0050,2025-02-11,6,Basic,One year,11.98,Bank transfer,Fiber optic,Yes,No,,
+CUST0051,2025-01-15,25,Pro,One year,54.61,Bank transfer,DSL,Yes,No,,
+CUST0052,2022-10-12,18,Basic,Two year,18.53,Bank transfer,Fiber optic,No,No,,
+CUST0053,2023-06-16,25,Basic,Two year,13.45,Credit card,Fiber optic,Yes,No,,
+CUST0054,2023-11-13,47,Basic,Month-to-month,24.94,PayPal,None,No,Yes,2027-09-23,Competitor
+CUST0055,2023-12-29,4,Basic,One year,22.13,Bank transfer,DSL,Yes,No,,
+CUST0056,2022-03-05,48,Pro,One year,42.68,Electronic check,DSL,No,No,,
+CUST0057,2024-03-09,22,Enterprise,Month-to-month,107.89,Credit card,DSL,Yes,No,,
+CUST0058,2022-08-14,38,Basic,Month-to-month,22.29,PayPal,DSL,No,No,,
+CUST0059,2024-12-22,21,Pro,Month-to-month,48.95,Credit card,Fiber optic,No,No,,
+CUST0060,2024-09-24,15,Pro,One year,56.95,PayPal,Fiber optic,No,No,,
+CUST0061,2025-09-09,37,Enterprise,One year,99.8,Bank transfer,DSL,No,Yes,2028-09-23,Moved/Not needed
+CUST0062,2024-12-24,34,Pro,One year,48.86,Bank transfer,DSL,No,No,,
+CUST0063,2023-06-20,7,Basic,Month-to-month,15.7,PayPal,None,No,Yes,2024-01-16,Product features
+CUST0064,2025-11-14,34,Pro,Month-to-month,51.91,Electronic check,DSL,No,Yes,2028-08-30,Support
+CUST0065,2023-08-24,37,Basic,Month-to-month,21.38,Bank transfer,Fiber optic,No,No,,
+CUST0066,2023-04-22,19,Enterprise,Month-to-month,99.07,Electronic check,Fiber optic,No,No,,
+CUST0067,2025-08-15,45,Basic,Two year,15.05,Credit card,DSL,No,No,,
+CUST0068,2023-06-26,31,Pro,Two year,49.65,Bank transfer,Fiber optic,Yes,Yes,2026-01-11,Competitor
+CUST0069,2022-04-22,17,Basic,Two year,18.65,Bank transfer,DSL,No,No,,
+CUST0070,2023-11-18,1,Basic,Two year,12.33,Electronic check,DSL,No,Yes,2023-12-18,Price
+CUST0071,2025-03-08,33,Enterprise,Two year,91.64,Credit card,Fiber optic,Yes,No,,
+CUST0072,2022-10-04,11,Pro,Month-to-month,51.83,Bank transfer,DSL,Yes,No,,
+CUST0073,2023-11-08,37,Basic,Month-to-month,5.99,Bank transfer,DSL,No,Yes,2026-11-22,Price
+CUST0074,2022-07-09,26,Enterprise,Month-to-month,100.03,Electronic check,None,Yes,Yes,2024-08-27,Support
+CUST0075,2024-09-29,23,Enterprise,Month-to-month,96.61,Bank transfer,Fiber optic,Yes,Yes,2026-08-20,Support
+CUST0076,2023-11-27,8,Basic,Month-to-month,25.54,Electronic check,DSL,Yes,Yes,2024-07-24,Product features
+CUST0077,2023-04-28,35,Pro,Month-to-month,46.53,PayPal,Fiber optic,Yes,Yes,2026-03-13,Competitor
+CUST0078,2022-11-28,8,Basic,Two year,22.3,PayPal,Fiber optic,No,Yes,2023-07-26,Moved/Not needed
+CUST0079,2024-04-04,21,Pro,Month-to-month,47.02,Electronic check,Fiber optic,No,Yes,2025-12-25,Support
+CUST0080,2024-09-05,41,Basic,Two year,19.57,Credit card,DSL,No,Yes,2028-01-18,Support
+CUST0081,2025-10-05,45,Basic,One year,22.68,Bank transfer,None,No,Yes,2029-06-16,Moved/Not needed
+CUST0082,2023-10-01,48,Enterprise,One year,96.69,PayPal,Fiber optic,No,No,,
+CUST0083,2022-08-23,46,Enterprise,One year,103.98,Credit card,DSL,Yes,Yes,2026-06-03,Support
+CUST0084,2025-05-01,27,Pro,Month-to-month,44.03,Credit card,Fiber optic,No,No,,
+CUST0085,2024-07-09,10,Enterprise,One year,100.47,Credit card,DSL,Yes,Yes,2025-05-05,Competitor
+CUST0086,2024-10-20,41,Pro,Month-to-month,53.61,Electronic check,Fiber optic,Yes,Yes,2028-03-03,Product features
+CUST0087,2022-05-23,39,Pro,Two year,52.3,PayPal,DSL,No,Yes,2025-08-05,Product features
+CUST0088,2023-04-02,48,Pro,Month-to-month,58.58,Bank transfer,Fiber optic,No,No,,
+CUST0089,2025-01-26,32,Basic,Month-to-month,15.18,PayPal,DSL,Yes,Yes,2027-09-13,Competitor
+CUST0090,2025-04-30,7,Basic,One year,12.1,PayPal,Fiber optic,No,Yes,2025-11-26,Support
+CUST0091,2023-09-28,25,Basic,One year,14.03,Electronic check,DSL,No,Yes,2025-10-17,Product features
+CUST0092,2025-03-21,22,Pro,Month-to-month,52.3,Electronic check,DSL,Yes,No,,
+CUST0093,2025-05-14,41,Basic,One year,21.49,Electronic check,Fiber optic,Yes,Yes,2028-09-25,Product features
+CUST0094,2023-07-21,19,Basic,Month-to-month,19.51,Credit card,Fiber optic,Yes,Yes,2025-02-10,Support
+CUST0095,2025-08-05,16,Pro,One year,43.39,Electronic check,DSL,No,No,,
+CUST0096,2023-02-26,4,Basic,Month-to-month,22.83,Bank transfer,DSL,Yes,Yes,2023-06-26,Price
+CUST0097,2022-12-16,41,Basic,Month-to-month,12.88,Bank transfer,Fiber optic,No,Yes,2026-04-29,Support
+CUST0098,2024-09-24,37,Pro,Month-to-month,54.79,PayPal,Fiber optic,Yes,No,,
+CUST0099,2024-07-19,2,Enterprise,Month-to-month,113.29,PayPal,Fiber optic,No,Yes,2024-09-17,Price
+CUST0100,2022-07-24,21,Basic,Month-to-month,20.83,Bank transfer,DSL,No,Yes,2024-04-14,Moved/Not needed
+CUST0101,2025-05-01,24,Basic,Month-to-month,21.92,Electronic check,DSL,No,Yes,2027-04-21,Price
+CUST0102,2022-10-20,23,Basic,Month-to-month,16.54,Credit card,Fiber optic,Yes,Yes,2024-09-09,Support
+CUST0103,2025-03-21,45,Pro,Month-to-month,39.95,Credit card,DSL,No,No,,
+CUST0104,2022-01-11,8,Pro,Month-to-month,45.99,Credit card,DSL,No,Yes,2022-09-08,Competitor
+CUST0105,2025-03-10,15,Basic,Month-to-month,13.54,Electronic check,DSL,Yes,No,,
+CUST0106,2025-02-23,9,Pro,One year,41.76,Bank transfer,Fiber optic,Yes,Yes,2025-11-20,Product features
+CUST0107,2025-02-14,12,Basic,Two year,27.61,Bank transfer,Fiber optic,Yes,No,,
+CUST0108,2024-08-29,44,Basic,Month-to-month,20.36,PayPal,Fiber optic,Yes,No,,
+CUST0109,2023-11-20,46,Enterprise,Two year,100.9,Bank transfer,Fiber optic,Yes,Yes,2027-08-31,Moved/Not needed
+CUST0110,2024-10-27,3,Basic,Month-to-month,17.45,PayPal,Fiber optic,Yes,No,,
+CUST0111,2023-02-09,31,Basic,Month-to-month,18.14,Credit card,Fiber optic,Yes,No,,
+CUST0112,2025-02-14,12,Basic,One year,23.82,Credit card,Fiber optic,No,No,,
+CUST0113,2024-03-22,10,Pro,One year,48.84,Electronic check,DSL,Yes,Yes,2025-01-16,Moved/Not needed
+CUST0114,2023-11-02,15,Enterprise,One year,101.65,Bank transfer,Fiber optic,Yes,Yes,2025-01-25,Support
+CUST0115,2024-01-09,10,Enterprise,Month-to-month,98.02,Credit card,DSL,No,Yes,2024-11-04,Moved/Not needed
+CUST0116,2024-04-10,24,Basic,One year,17.29,Bank transfer,Fiber optic,Yes,No,,
+CUST0117,2022-02-24,48,Basic,Month-to-month,11.97,Bank transfer,DSL,Yes,Yes,2026-02-03,Support
+CUST0118,2022-07-24,29,Pro,Month-to-month,39.11,Bank transfer,Fiber optic,Yes,Yes,2024-12-10,Moved/Not needed
+CUST0119,2022-12-25,35,Basic,Month-to-month,17.69,Bank transfer,DSL,Yes,No,,
+CUST0120,2022-06-17,24,Enterprise,Two year,99.28,PayPal,DSL,No,Yes,2024-06-06,Moved/Not needed
+CUST0121,2023-10-05,1,Pro,Month-to-month,42.57,Credit card,Fiber optic,Yes,Yes,2023-11-04,Competitor
+CUST0122,2024-09-03,5,Basic,One year,18.83,Bank transfer,DSL,Yes,No,,
+CUST0123,2024-08-14,13,Pro,One year,49.27,Bank transfer,Fiber optic,No,Yes,2025-09-08,Competitor
+CUST0124,2023-11-20,12,Basic,One year,8.22,PayPal,DSL,No,Yes,2024-11-14,Price
+CUST0125,2025-06-03,41,Basic,One year,14.42,Electronic check,Fiber optic,Yes,Yes,2028-10-15,Support
+CUST0126,2024-04-05,41,Pro,Two year,51.04,Electronic check,Fiber optic,Yes,No,,
+CUST0127,2022-04-26,41,Pro,Month-to-month,50.94,Bank transfer,Fiber optic,No,Yes,2025-09-07,Product features
+CUST0128,2025-01-22,31,Pro,Month-to-month,43.23,PayPal,DSL,No,No,,
+CUST0129,2024-04-19,27,Pro,One year,49.79,Credit card,Fiber optic,No,No,,
+CUST0130,2024-07-16,32,Enterprise,Month-to-month,104.11,PayPal,DSL,Yes,No,,
+CUST0131,2024-04-06,20,Enterprise,Month-to-month,102.89,Credit card,Fiber optic,Yes,Yes,2025-11-27,Support
+CUST0132,2024-03-19,33,Pro,Month-to-month,48.52,Credit card,Fiber optic,Yes,No,,
+CUST0133,2022-05-13,39,Basic,Month-to-month,16.66,PayPal,Fiber optic,No,Yes,2025-07-26,Moved/Not needed
+CUST0134,2024-03-28,37,Pro,Month-to-month,45.85,Credit card,None,No,No,,
+CUST0135,2025-03-07,30,Enterprise,Month-to-month,101.34,Bank transfer,DSL,Yes,No,,
+CUST0136,2023-03-21,3,Basic,Two year,19.98,Credit card,Fiber optic,No,No,,
+CUST0137,2024-05-30,35,Basic,Month-to-month,22.15,PayPal,DSL,Yes,Yes,2027-04-15,Competitor
+CUST0138,2022-02-15,18,Basic,Two year,19.66,Electronic check,Fiber optic,No,Yes,2023-08-09,Support
+CUST0139,2023-05-23,36,Basic,Two year,23.09,PayPal,Fiber optic,No,No,,
+CUST0140,2023-10-01,26,Pro,Month-to-month,49.47,Electronic check,Fiber optic,No,Yes,2025-11-19,Competitor
+CUST0141,2025-12-06,43,Basic,One year,22.92,Bank transfer,Fiber optic,Yes,No,,
+CUST0142,2022-11-10,17,Pro,One year,53.35,Credit card,Fiber optic,No,Yes,2024-04-03,Competitor
+CUST0143,2023-02-09,45,Pro,One year,44.98,Credit card,DSL,Yes,No,,
+CUST0144,2023-08-20,41,Pro,Month-to-month,39.96,Credit card,Fiber optic,No,No,,
+CUST0145,2025-12-21,16,Basic,Month-to-month,26.72,Credit card,DSL,Yes,No,,
+CUST0146,2025-05-31,24,Basic,Month-to-month,20.28,Bank transfer,DSL,No,Yes,2027-05-21,Competitor
+CUST0147,2022-02-20,26,Pro,One year,40.43,Credit card,DSL,Yes,No,,
+CUST0148,2022-12-08,37,Pro,Two year,45.43,PayPal,DSL,Yes,No,,
+CUST0149,2025-04-15,34,Basic,One year,22.86,Credit card,DSL,Yes,No,,
+CUST0150,2022-03-27,41,Enterprise,One year,97.6,PayPal,Fiber optic,Yes,No,,
+CUST0151,2025-06-04,18,Basic,Two year,16.44,Bank transfer,Fiber optic,Yes,No,,
+CUST0152,2023-02-16,25,Enterprise,One year,106.0,PayPal,Fiber optic,No,No,,
+CUST0153,2025-09-02,21,Basic,Month-to-month,13.76,PayPal,None,Yes,Yes,2027-05-25,Price
+CUST0154,2023-03-05,44,Basic,Two year,15.01,Electronic check,Fiber optic,Yes,No,,
+CUST0155,2023-09-27,15,Pro,Month-to-month,50.06,Bank transfer,DSL,Yes,No,,
+CUST0156,2024-08-25,29,Basic,Month-to-month,20.95,Bank transfer,DSL,Yes,Yes,2027-01-12,Support
+CUST0157,2022-07-04,6,Basic,Month-to-month,21.48,PayPal,Fiber optic,No,Yes,2022-12-31,Price
+CUST0158,2024-03-24,41,Basic,Two year,23.56,PayPal,DSL,No,No,,
+CUST0159,2024-01-08,19,Basic,Month-to-month,19.99,Bank transfer,Fiber optic,Yes,No,,
+CUST0160,2025-02-19,17,Pro,Month-to-month,51.45,PayPal,Fiber optic,No,No,,
+CUST0161,2025-12-26,28,Basic,Month-to-month,17.7,Bank transfer,DSL,No,No,,
+CUST0162,2024-08-28,24,Pro,Month-to-month,49.31,Bank transfer,Fiber optic,No,Yes,2026-08-18,Price
+CUST0163,2023-08-21,41,Pro,Month-to-month,49.54,Bank transfer,Fiber optic,Yes,Yes,2027-01-02,Price
+CUST0164,2023-08-17,26,Basic,One year,20.08,Electronic check,Fiber optic,Yes,No,,
+CUST0165,2023-09-03,25,Basic,Two year,22.86,PayPal,Fiber optic,No,No,,
+CUST0166,2025-04-04,6,Enterprise,Month-to-month,101.78,Credit card,DSL,No,Yes,2025-10-01,Product features
+CUST0167,2023-04-15,2,Pro,Month-to-month,49.22,Electronic check,DSL,No,Yes,2023-06-14,Price
+CUST0168,2022-09-01,20,Pro,Month-to-month,44.95,PayPal,Fiber optic,No,Yes,2024-04-23,Support
+CUST0169,2023-05-04,48,Pro,Month-to-month,49.34,Credit card,Fiber optic,Yes,Yes,2027-04-13,Competitor
+CUST0170,2022-02-03,45,Basic,One year,18.86,PayPal,Fiber optic,No,No,,
+CUST0171,2022-06-05,31,Basic,One year,19.97,PayPal,DSL,No,No,,
+CUST0172,2022-05-12,31,Pro,One year,60.03,Electronic check,DSL,Yes,No,,
+CUST0173,2025-02-01,19,Basic,Month-to-month,16.38,Bank transfer,Fiber optic,No,Yes,2026-08-25,Competitor
+CUST0174,2024-11-21,9,Pro,One year,51.11,PayPal,Fiber optic,Yes,Yes,2025-08-18,Competitor
+CUST0175,2024-10-14,1,Pro,Month-to-month,54.34,Bank transfer,None,No,Yes,2024-11-13,Price
+CUST0176,2023-11-06,17,Pro,Month-to-month,49.49,Bank transfer,DSL,No,No,,
+CUST0177,2024-11-13,16,Basic,Two year,30.69,PayPal,Fiber optic,No,No,,
+CUST0178,2022-08-24,10,Basic,One year,17.11,Electronic check,DSL,No,Yes,2023-06-20,Moved/Not needed
+CUST0179,2025-08-08,13,Basic,Two year,20.62,Electronic check,Fiber optic,Yes,No,,
+CUST0180,2024-01-03,2,Basic,Two year,15.01,Electronic check,Fiber optic,Yes,No,,
+CUST0181,2025-10-02,30,Pro,One year,47.24,PayPal,DSL,Yes,Yes,2028-03-20,Moved/Not needed
+CUST0182,2022-08-11,45,Basic,Two year,20.24,PayPal,Fiber optic,Yes,No,,
+CUST0183,2023-12-28,34,Basic,Month-to-month,23.23,Bank transfer,Fiber optic,Yes,No,,
+CUST0184,2024-10-14,22,Basic,Month-to-month,20.6,Electronic check,None,Yes,Yes,2026-08-05,Price
+CUST0185,2023-12-26,21,Basic,Month-to-month,25.3,Bank transfer,DSL,Yes,No,,
+CUST0186,2023-10-14,15,Pro,Month-to-month,48.53,Bank transfer,Fiber optic,Yes,No,,
+CUST0187,2022-08-31,7,Basic,Month-to-month,17.34,Electronic check,DSL,Yes,Yes,2023-03-29,Competitor
+CUST0188,2023-07-11,29,Enterprise,Month-to-month,112.52,PayPal,DSL,No,Yes,2025-11-27,Product features
+CUST0189,2022-12-15,28,Basic,One year,20.97,Bank transfer,DSL,Yes,No,,
+CUST0190,2023-03-17,1,Pro,One year,45.4,Electronic check,None,No,Yes,2023-04-16,Competitor
+CUST0191,2024-09-25,20,Basic,One year,15.53,Electronic check,DSL,No,No,,
+CUST0192,2024-07-09,14,Basic,Month-to-month,14.29,Bank transfer,Fiber optic,No,No,,
+CUST0193,2024-06-06,9,Enterprise,One year,103.68,PayPal,Fiber optic,Yes,No,,
+CUST0194,2023-06-13,34,Enterprise,Month-to-month,97.18,Bank transfer,DSL,Yes,No,,
+CUST0195,2025-11-03,26,Enterprise,Month-to-month,99.64,PayPal,None,No,No,,
+CUST0196,2022-05-09,31,Basic,Month-to-month,18.68,Electronic check,Fiber optic,No,Yes,2024-11-24,Price
+CUST0197,2023-05-16,35,Basic,Month-to-month,22.66,PayPal,Fiber optic,Yes,Yes,2026-03-31,Moved/Not needed
+CUST0198,2022-06-22,48,Pro,Month-to-month,44.77,Electronic check,DSL,Yes,Yes,2026-06-01,Price
+CUST0199,2023-05-11,39,Basic,One year,13.62,PayPal,Fiber optic,No,No,,
+CUST0200,2025-11-06,30,Pro,One year,50.12,Electronic check,Fiber optic,Yes,No,,
+CUST0201,2023-06-20,43,Pro,One year,52.0,Bank transfer,DSL,No,Yes,2026-12-31,Competitor
+CUST0202,2025-08-20,23,Pro,Month-to-month,50.66,Bank transfer,DSL,Yes,Yes,2027-07-11,Moved/Not needed
+CUST0203,2023-12-25,48,Pro,One year,44.95,Bank transfer,DSL,Yes,No,,
+CUST0204,2024-10-19,37,Pro,One year,52.39,Electronic check,DSL,No,Yes,2027-11-03,Price
+CUST0205,2023-10-31,32,Basic,Month-to-month,15.28,PayPal,Fiber optic,Yes,Yes,2026-06-17,Support
+CUST0206,2023-01-24,44,Basic,One year,16.39,Credit card,None,No,No,,
+CUST0207,2025-01-21,25,Pro,Month-to-month,44.28,Credit card,Fiber optic,Yes,No,,
+CUST0208,2025-11-16,35,Basic,Month-to-month,25.51,PayPal,Fiber optic,Yes,No,,
+CUST0209,2023-01-21,14,Basic,Month-to-month,22.17,Electronic check,DSL,No,Yes,2024-03-16,Support
+CUST0210,2025-02-11,47,Basic,Month-to-month,22.02,Bank transfer,DSL,Yes,No,,
+CUST0211,2023-01-17,30,Pro,Month-to-month,55.24,PayPal,DSL,Yes,No,,
+CUST0212,2024-11-13,38,Pro,Month-to-month,63.06,Electronic check,Fiber optic,No,Yes,2027-12-28,Price
+CUST0213,2025-02-26,23,Pro,Month-to-month,40.45,PayPal,None,No,No,,
+CUST0214,2023-10-19,42,Basic,Two year,15.31,Electronic check,DSL,No,Yes,2027-04-01,Price
+CUST0215,2024-12-12,4,Basic,Month-to-month,15.92,PayPal,DSL,Yes,Yes,2025-04-11,Competitor
+CUST0216,2023-02-02,6,Pro,Month-to-month,44.75,PayPal,None,Yes,No,,
+CUST0217,2022-04-26,25,Basic,Month-to-month,13.61,Electronic check,Fiber optic,No,Yes,2024-05-15,Competitor
+CUST0218,2022-05-21,36,Pro,Two year,47.5,PayPal,DSL,Yes,No,,
+CUST0219,2023-10-16,39,Pro,One year,42.92,Credit card,DSL,Yes,No,,
+CUST0220,2025-08-11,22,Basic,Two year,20.68,Bank transfer,DSL,No,Yes,2027-06-02,Product features
+CUST0221,2022-07-06,32,Basic,Month-to-month,19.26,Credit card,DSL,Yes,Yes,2025-02-20,Competitor
+CUST0222,2023-10-28,27,Basic,Month-to-month,21.41,PayPal,DSL,Yes,Yes,2026-01-15,Moved/Not needed
+CUST0223,2024-10-25,47,Enterprise,One year,101.54,Credit card,Fiber optic,Yes,Yes,2028-09-04,Price
+CUST0224,2022-10-23,32,Pro,Month-to-month,52.02,PayPal,Fiber optic,Yes,No,,
+CUST0225,2024-11-20,21,Basic,One year,17.13,Bank transfer,None,No,No,,
+CUST0226,2023-03-24,47,Enterprise,Two year,109.61,Credit card,None,No,No,,
+CUST0227,2025-03-27,6,Basic,Month-to-month,20.17,Credit card,None,Yes,No,,
+CUST0228,2024-04-26,48,Basic,Two year,9.69,PayPal,Fiber optic,Yes,Yes,2028-04-05,Moved/Not needed
+CUST0229,2024-03-10,8,Enterprise,One year,93.99,Credit card,Fiber optic,No,Yes,2024-11-05,Price
+CUST0230,2022-09-16,14,Basic,Month-to-month,10.3,Electronic check,DSL,Yes,No,,
+CUST0231,2023-11-08,40,Basic,Month-to-month,19.09,Electronic check,DSL,No,No,,
+CUST0232,2025-06-05,36,Pro,Month-to-month,48.39,PayPal,Fiber optic,No,Yes,2028-05-20,Competitor
+CUST0233,2022-01-29,47,Basic,One year,16.66,Credit card,DSL,No,Yes,2025-12-09,Support
+CUST0234,2025-01-13,36,Pro,Month-to-month,59.05,Electronic check,Fiber optic,Yes,No,,
+CUST0235,2023-12-21,31,Basic,Month-to-month,21.74,PayPal,Fiber optic,No,No,,
+CUST0236,2024-11-17,17,Basic,One year,22.63,Bank transfer,Fiber optic,Yes,No,,
+CUST0237,2024-08-27,1,Basic,Month-to-month,14.34,Credit card,Fiber optic,No,Yes,2024-09-26,Price
+CUST0238,2023-09-24,6,Basic,Month-to-month,14.0,PayPal,Fiber optic,No,Yes,2024-03-22,Support
+CUST0239,2023-03-27,15,Basic,One year,19.18,Electronic check,None,No,No,,
+CUST0240,2024-07-05,2,Basic,Month-to-month,19.87,Credit card,DSL,No,No,,
+CUST0241,2022-07-24,25,Enterprise,Month-to-month,89.72,Credit card,None,No,No,,
+CUST0242,2024-05-03,38,Basic,Month-to-month,18.1,Bank transfer,Fiber optic,Yes,Yes,2027-06-17,Moved/Not needed
+CUST0243,2022-05-19,47,Basic,Month-to-month,19.07,PayPal,Fiber optic,Yes,No,,
+CUST0244,2024-08-07,24,Basic,Month-to-month,17.92,Bank transfer,Fiber optic,No,No,,
+CUST0245,2024-07-07,43,Basic,One year,14.93,Bank transfer,DSL,No,No,,
+CUST0246,2022-05-04,48,Basic,Two year,16.3,Bank transfer,Fiber optic,Yes,No,,
+CUST0247,2025-01-11,42,Pro,Month-to-month,48.12,Credit card,DSL,No,Yes,2028-06-24,Competitor
+CUST0248,2023-08-31,23,Basic,Two year,19.45,Credit card,DSL,No,Yes,2025-07-21,Product features
+CUST0249,2025-02-23,16,Enterprise,One year,102.02,Credit card,DSL,Yes,No,,
+CUST0250,2022-03-02,47,Enterprise,One year,104.4,PayPal,Fiber optic,Yes,No,,
+CUST0251,2022-09-20,12,Basic,One year,17.53,Electronic check,Fiber optic,Yes,No,,
+CUST0252,2023-12-23,20,Basic,One year,16.72,Bank transfer,Fiber optic,Yes,No,,
+CUST0253,2022-10-02,4,Basic,One year,21.19,Credit card,Fiber optic,Yes,Yes,2023-01-30,Price
+CUST0254,2023-04-27,39,Pro,Month-to-month,52.05,Bank transfer,DSL,Yes,Yes,2026-07-10,Competitor
+CUST0255,2024-08-23,32,Basic,Month-to-month,16.83,Electronic check,Fiber optic,Yes,No,,
+CUST0256,2022-07-31,5,Enterprise,Month-to-month,102.95,Credit card,DSL,Yes,Yes,2022-12-28,Moved/Not needed
+CUST0257,2024-09-17,11,Pro,Month-to-month,53.9,Bank transfer,Fiber optic,No,Yes,2025-08-13,Product features
+CUST0258,2022-06-01,27,Pro,One year,55.46,PayPal,None,Yes,No,,
+CUST0259,2022-09-13,26,Pro,Month-to-month,57.89,Bank transfer,None,No,Yes,2024-11-01,Product features
+CUST0260,2024-05-08,39,Enterprise,Month-to-month,94.67,Bank transfer,Fiber optic,No,Yes,2027-07-22,Competitor
+CUST0261,2025-03-05,13,Basic,Month-to-month,19.07,Bank transfer,DSL,No,Yes,2026-03-30,Support
+CUST0262,2022-09-07,45,Basic,Month-to-month,19.06,Bank transfer,Fiber optic,No,No,,
+CUST0263,2023-03-15,22,Basic,One year,18.51,PayPal,DSL,No,No,,
+CUST0264,2025-09-13,40,Enterprise,One year,95.75,PayPal,DSL,Yes,No,,
+CUST0265,2025-12-16,12,Pro,Month-to-month,41.57,Credit card,DSL,No,Yes,2026-12-11,Price
+CUST0266,2024-04-28,2,Pro,Month-to-month,49.46,Credit card,DSL,Yes,No,,
+CUST0267,2023-10-16,3,Basic,Month-to-month,15.16,Bank transfer,Fiber optic,No,No,,
+CUST0268,2023-05-22,18,Enterprise,Month-to-month,99.43,Electronic check,DSL,No,Yes,2024-11-12,Price
+CUST0269,2024-06-13,46,Basic,One year,15.03,Credit card,DSL,Yes,No,,
+CUST0270,2024-05-13,3,Basic,One year,13.5,Credit card,Fiber optic,Yes,No,,
+CUST0271,2023-03-07,18,Enterprise,Month-to-month,100.17,PayPal,Fiber optic,No,Yes,2024-08-28,Moved/Not needed
+CUST0272,2022-02-03,6,Basic,Month-to-month,19.75,Bank transfer,DSL,Yes,Yes,2022-08-02,Competitor
+CUST0273,2022-08-10,45,Basic,Two year,21.9,Credit card,DSL,Yes,No,,
+CUST0274,2025-11-01,33,Pro,One year,59.93,Credit card,Fiber optic,Yes,No,,
+CUST0275,2023-09-03,37,Basic,Month-to-month,20.39,PayPal,None,No,Yes,2026-09-17,Moved/Not needed
+CUST0276,2023-12-06,35,Basic,Month-to-month,21.43,PayPal,DSL,No,Yes,2026-10-21,Moved/Not needed
+CUST0277,2023-11-14,32,Basic,Month-to-month,13.61,PayPal,Fiber optic,No,Yes,2026-07-01,Support
+CUST0278,2025-02-17,38,Basic,Two year,12.57,Bank transfer,Fiber optic,Yes,No,,
+CUST0279,2022-04-05,1,Enterprise,Month-to-month,106.91,PayPal,DSL,Yes,Yes,2022-05-05,Product features
+CUST0280,2022-05-01,42,Pro,Month-to-month,44.38,Electronic check,DSL,Yes,Yes,2025-10-12,Price
+CUST0281,2023-02-08,36,Basic,Two year,13.78,Bank transfer,DSL,No,No,,
+CUST0282,2023-12-13,36,Basic,One year,18.8,Bank transfer,Fiber optic,No,No,,
+CUST0283,2024-09-07,19,Basic,Month-to-month,18.55,Credit card,DSL,No,No,,
+CUST0284,2023-12-18,39,Pro,Month-to-month,44.49,PayPal,DSL,Yes,No,,
+CUST0285,2023-10-07,19,Enterprise,Month-to-month,97.48,Credit card,DSL,No,No,,
+CUST0286,2025-10-02,3,Enterprise,One year,105.15,Credit card,Fiber optic,Yes,Yes,2025-12-31,Support
+CUST0287,2022-08-24,44,Basic,Month-to-month,14.97,PayPal,DSL,No,No,,
+CUST0288,2024-04-15,12,Basic,Two year,12.03,Credit card,Fiber optic,No,Yes,2025-04-10,Moved/Not needed
+CUST0289,2024-03-03,5,Basic,Two year,23.71,Electronic check,Fiber optic,No,Yes,2024-07-31,Competitor
+CUST0290,2023-11-23,30,Pro,Month-to-month,51.46,Bank transfer,DSL,No,Yes,2026-05-11,Competitor
+CUST0291,2025-03-25,12,Basic,One year,15.9,Bank transfer,DSL,No,Yes,2026-03-20,Competitor
+CUST0292,2023-01-26,42,Pro,Month-to-month,41.09,PayPal,Fiber optic,Yes,No,,
+CUST0293,2025-10-25,22,Pro,Month-to-month,45.28,PayPal,DSL,Yes,Yes,2027-08-16,Price
+CUST0294,2023-04-30,1,Basic,One year,18.73,Bank transfer,Fiber optic,Yes,No,,
+CUST0295,2024-03-07,46,Basic,Month-to-month,24.83,Electronic check,Fiber optic,No,Yes,2027-12-17,Competitor
+CUST0296,2024-01-31,25,Basic,Month-to-month,13.82,Electronic check,Fiber optic,No,Yes,2026-02-19,Support
+CUST0297,2025-05-26,13,Basic,Month-to-month,18.58,Credit card,Fiber optic,No,No,,
+CUST0298,2023-10-04,33,Basic,Month-to-month,22.38,PayPal,DSL,No,No,,
+CUST0299,2023-02-20,26,Pro,Month-to-month,37.09,Bank transfer,DSL,Yes,No,,
+CUST0300,2022-02-01,2,Basic,One year,24.17,Electronic check,DSL,No,Yes,2022-04-02,Moved/Not needed
+CUST0301,2023-06-16,37,Basic,One year,13.09,Bank transfer,Fiber optic,No,Yes,2026-06-30,Competitor
+CUST0302,2025-04-22,20,Pro,One year,50.66,Bank transfer,Fiber optic,Yes,No,,
+CUST0303,2022-01-15,34,Pro,One year,50.23,PayPal,Fiber optic,Yes,No,,
+CUST0304,2025-08-02,43,Basic,Month-to-month,24.42,Electronic check,DSL,Yes,Yes,2029-02-12,Competitor
+CUST0305,2024-03-04,30,Pro,One year,51.75,Credit card,Fiber optic,Yes,No,,
+CUST0306,2022-07-24,33,Enterprise,Month-to-month,87.11,PayPal,Fiber optic,No,Yes,2025-04-09,Moved/Not needed
+CUST0307,2023-03-18,13,Pro,Month-to-month,45.08,Bank transfer,DSL,No,No,,
+CUST0308,2024-03-20,12,Pro,Two year,49.69,PayPal,DSL,No,Yes,2025-03-15,Support
+CUST0309,2023-04-07,20,Basic,Month-to-month,18.03,PayPal,Fiber optic,Yes,No,,
+CUST0310,2022-06-08,41,Enterprise,Month-to-month,101.39,Electronic check,Fiber optic,No,Yes,2025-10-20,Product features
+CUST0311,2024-08-31,26,Basic,Month-to-month,22.95,Electronic check,DSL,No,No,,
+CUST0312,2024-09-09,17,Enterprise,Month-to-month,102.04,PayPal,Fiber optic,Yes,Yes,2026-02-01,Moved/Not needed
+CUST0313,2022-06-23,38,Pro,Month-to-month,47.93,PayPal,Fiber optic,No,Yes,2025-08-06,Product features
+CUST0314,2023-02-15,41,Basic,Month-to-month,9.77,Electronic check,DSL,Yes,Yes,2026-06-29,Product features
+CUST0315,2022-12-23,44,Basic,Two year,16.72,Credit card,Fiber optic,Yes,No,,
+CUST0316,2024-08-21,15,Pro,Month-to-month,51.08,PayPal,Fiber optic,Yes,No,,
+CUST0317,2024-12-02,35,Pro,Month-to-month,43.55,Electronic check,Fiber optic,Yes,No,,
+CUST0318,2024-11-28,29,Basic,Month-to-month,22.16,Credit card,Fiber optic,No,No,,
+CUST0319,2025-10-03,22,Pro,One year,53.54,Electronic check,Fiber optic,Yes,No,,
+CUST0320,2025-01-27,20,Enterprise,Month-to-month,99.63,PayPal,Fiber optic,Yes,No,,
+CUST0321,2023-04-14,6,Basic,Month-to-month,5.0,Bank transfer,DSL,Yes,Yes,2023-10-11,Product features
+CUST0322,2022-06-07,14,Basic,Month-to-month,12.61,Bank transfer,Fiber optic,Yes,No,,
+CUST0323,2024-06-16,27,Basic,One year,28.43,Bank transfer,DSL,Yes,Yes,2026-09-04,Product features
+CUST0324,2025-08-31,43,Pro,One year,46.27,Electronic check,None,Yes,Yes,2029-03-13,Price
+CUST0325,2025-11-25,42,Basic,One year,9.08,Electronic check,Fiber optic,No,Yes,2029-05-08,Competitor
+CUST0326,2022-12-03,10,Enterprise,One year,105.18,Electronic check,Fiber optic,Yes,Yes,2023-09-29,Price
+CUST0327,2022-12-12,33,Basic,Month-to-month,19.07,PayPal,DSL,No,No,,
+CUST0328,2022-02-24,5,Pro,Month-to-month,54.52,Credit card,None,Yes,No,,
+CUST0329,2022-07-26,33,Basic,Month-to-month,20.38,Electronic check,DSL,No,Yes,2025-04-11,Competitor
+CUST0330,2024-03-21,17,Basic,Month-to-month,21.29,Credit card,Fiber optic,No,No,,
+CUST0331,2024-03-09,22,Pro,Month-to-month,50.82,Credit card,Fiber optic,Yes,Yes,2025-12-29,Price
+CUST0332,2023-06-26,35,Basic,Month-to-month,22.49,Credit card,Fiber optic,Yes,Yes,2026-05-11,Product features
+CUST0333,2023-03-29,21,Pro,Month-to-month,60.39,Electronic check,DSL,No,Yes,2024-12-18,Product features
+CUST0334,2025-04-27,39,Enterprise,One year,103.86,Bank transfer,DSL,No,Yes,2028-07-10,Product features
+CUST0335,2023-11-04,26,Enterprise,Month-to-month,91.1,Credit card,Fiber optic,No,Yes,2025-12-23,Product features
+CUST0336,2025-03-26,48,Enterprise,One year,101.23,Credit card,DSL,Yes,Yes,2029-03-05,Competitor
+CUST0337,2025-11-08,31,Basic,One year,24.71,Bank transfer,Fiber optic,Yes,Yes,2028-05-26,Price
+CUST0338,2023-04-09,15,Pro,Month-to-month,55.01,PayPal,DSL,No,Yes,2024-07-02,Competitor
+CUST0339,2022-10-24,38,Enterprise,Month-to-month,96.87,Electronic check,Fiber optic,No,No,,
+CUST0340,2025-10-24,20,Basic,One year,24.82,PayPal,DSL,Yes,Yes,2027-06-16,Moved/Not needed
+CUST0341,2024-07-16,26,Basic,One year,23.64,PayPal,DSL,No,Yes,2026-09-04,Moved/Not needed
+CUST0342,2023-03-02,7,Pro,Month-to-month,61.86,Electronic check,DSL,No,Yes,2023-09-28,Price
+CUST0343,2024-06-27,6,Basic,Month-to-month,15.25,Electronic check,Fiber optic,Yes,Yes,2024-12-24,Price
+CUST0344,2024-01-23,28,Pro,One year,46.46,Bank transfer,DSL,Yes,No,,
+CUST0345,2025-08-15,9,Enterprise,One year,97.47,Electronic check,DSL,Yes,Yes,2026-05-12,Support
+CUST0346,2023-01-09,48,Pro,Month-to-month,46.55,PayPal,Fiber optic,Yes,No,,
+CUST0347,2025-12-19,42,Basic,Month-to-month,14.55,Electronic check,Fiber optic,No,Yes,2029-06-01,Support
+CUST0348,2025-09-29,34,Basic,Two year,5.19,Credit card,DSL,Yes,No,,
+CUST0349,2022-09-22,36,Basic,Month-to-month,16.83,Credit card,Fiber optic,Yes,No,,
+CUST0350,2022-08-29,29,Basic,Two year,20.85,Electronic check,Fiber optic,No,No,,
+CUST0351,2024-02-18,3,Pro,Month-to-month,46.53,PayPal,Fiber optic,No,Yes,2024-05-18,Moved/Not needed
+CUST0352,2022-03-07,19,Pro,Month-to-month,58.68,Credit card,Fiber optic,No,Yes,2023-09-28,Competitor
+CUST0353,2023-03-13,24,Basic,Month-to-month,19.07,Electronic check,Fiber optic,No,Yes,2025-03-02,Product features
+CUST0354,2023-09-28,44,Basic,Month-to-month,25.46,Credit card,DSL,Yes,Yes,2027-05-10,Moved/Not needed
+CUST0355,2025-11-17,11,Enterprise,Two year,100.31,PayPal,Fiber optic,No,Yes,2026-10-13,Price
+CUST0356,2025-12-20,24,Basic,Month-to-month,23.13,Credit card,DSL,Yes,No,,
+CUST0357,2022-08-10,17,Pro,Two year,50.4,Credit card,Fiber optic,Yes,Yes,2024-01-02,Moved/Not needed
+CUST0358,2025-07-26,7,Basic,Month-to-month,25.84,Electronic check,Fiber optic,Yes,Yes,2026-02-21,Price
+CUST0359,2022-05-13,5,Pro,Two year,49.28,Electronic check,Fiber optic,No,No,,
+CUST0360,2024-12-29,18,Basic,Two year,21.48,Credit card,DSL,No,No,,
+CUST0361,2025-05-20,4,Pro,One year,50.83,Credit card,None,Yes,No,,
+CUST0362,2025-07-25,4,Basic,Month-to-month,17.56,PayPal,Fiber optic,No,No,,
+CUST0363,2022-11-23,17,Pro,One year,51.02,Credit card,Fiber optic,No,No,,
+CUST0364,2025-07-29,10,Basic,Month-to-month,30.17,PayPal,Fiber optic,Yes,Yes,2026-05-25,Moved/Not needed
+CUST0365,2022-06-19,27,Basic,Two year,17.65,Electronic check,Fiber optic,No,Yes,2024-09-06,Support
+CUST0366,2024-01-29,1,Pro,Month-to-month,51.1,Electronic check,DSL,Yes,Yes,2024-02-28,Product features
+CUST0367,2023-11-18,15,Basic,Month-to-month,25.29,Credit card,Fiber optic,No,No,,
+CUST0368,2023-04-07,22,Basic,Month-to-month,24.7,Credit card,None,Yes,No,,
+CUST0369,2022-02-02,47,Basic,One year,19.06,PayPal,DSL,Yes,No,,
+CUST0370,2025-02-01,31,Basic,Two year,7.08,Credit card,Fiber optic,Yes,Yes,2027-08-20,Support
+CUST0371,2023-05-06,43,Basic,Month-to-month,21.58,PayPal,DSL,Yes,Yes,2026-11-16,Product features
+CUST0372,2024-08-24,17,Enterprise,One year,87.9,Bank transfer,Fiber optic,No,Yes,2026-01-16,Competitor
+CUST0373,2023-08-23,22,Basic,Two year,26.35,PayPal,DSL,No,Yes,2025-06-13,Competitor
+CUST0374,2023-06-30,21,Pro,Month-to-month,49.85,Credit card,Fiber optic,Yes,No,,
+CUST0375,2025-07-18,43,Enterprise,Month-to-month,104.0,Electronic check,DSL,No,Yes,2029-01-28,Support
+CUST0376,2022-05-19,47,Basic,One year,14.49,PayPal,Fiber optic,No,No,,
+CUST0377,2024-12-12,47,Pro,One year,41.24,Credit card,Fiber optic,No,No,,
+CUST0378,2024-12-27,37,Enterprise,Month-to-month,100.3,Bank transfer,DSL,No,Yes,2028-01-11,Support
+CUST0379,2023-07-10,25,Pro,One year,48.83,Credit card,Fiber optic,Yes,No,,
+CUST0380,2023-01-19,26,Basic,Month-to-month,16.54,Bank transfer,Fiber optic,Yes,No,,
+CUST0381,2022-01-08,48,Basic,Two year,19.42,Bank transfer,DSL,No,Yes,2025-12-18,Product features
+CUST0382,2025-09-30,14,Basic,Two year,32.84,Credit card,Fiber optic,No,No,,
+CUST0383,2025-10-16,17,Pro,One year,53.17,PayPal,DSL,No,No,,
+CUST0384,2022-12-19,44,Enterprise,Month-to-month,104.25,PayPal,DSL,No,No,,
+CUST0385,2022-02-16,19,Enterprise,Month-to-month,103.22,Credit card,DSL,Yes,No,,
+CUST0386,2022-06-29,12,Basic,Month-to-month,26.4,Credit card,Fiber optic,No,No,,
+CUST0387,2022-04-09,27,Pro,Month-to-month,48.05,Credit card,Fiber optic,Yes,Yes,2024-06-27,Moved/Not needed
+CUST0388,2025-04-29,16,Basic,One year,8.73,PayPal,None,Yes,No,,
+CUST0389,2025-07-27,43,Enterprise,Month-to-month,98.06,Bank transfer,Fiber optic,No,Yes,2029-02-06,Price
+CUST0390,2022-08-12,44,Basic,Month-to-month,23.06,Credit card,Fiber optic,Yes,No,,
+CUST0391,2024-12-26,15,Enterprise,Month-to-month,94.15,Credit card,Fiber optic,No,No,,
+CUST0392,2022-09-19,26,Pro,Month-to-month,48.12,Electronic check,Fiber optic,Yes,No,,
+CUST0393,2023-06-21,48,Basic,Month-to-month,15.54,Bank transfer,DSL,No,No,,
+CUST0394,2024-05-25,36,Basic,One year,26.51,PayPal,DSL,No,Yes,2027-05-10,Moved/Not needed
+CUST0395,2024-11-17,11,Pro,One year,52.75,Bank transfer,DSL,No,No,,
+CUST0396,2025-07-01,29,Basic,Month-to-month,22.26,Credit card,DSL,No,Yes,2027-11-18,Competitor
+CUST0397,2022-03-07,30,Pro,Two year,52.11,Bank transfer,Fiber optic,Yes,No,,
+CUST0398,2022-10-14,32,Enterprise,Two year,98.81,Credit card,Fiber optic,Yes,No,,
+CUST0399,2023-02-14,2,Pro,Month-to-month,49.99,PayPal,Fiber optic,Yes,No,,
+CUST0400,2023-03-30,15,Basic,One year,13.07,Bank transfer,DSL,Yes,No,,
+CUST0401,2025-12-29,42,Basic,Month-to-month,8.07,Bank transfer,Fiber optic,No,Yes,2029-06-11,Competitor
+CUST0402,2025-02-09,12,Basic,Month-to-month,19.75,Credit card,DSL,No,Yes,2026-02-04,Product features
+CUST0403,2023-04-14,15,Enterprise,Month-to-month,100.62,Electronic check,Fiber optic,Yes,Yes,2024-07-07,Support
+CUST0404,2025-11-20,16,Basic,Month-to-month,25.05,Credit card,DSL,Yes,Yes,2027-03-15,Support
+CUST0405,2023-12-31,9,Basic,Two year,26.86,PayPal,DSL,No,No,,
+CUST0406,2024-01-02,8,Basic,Two year,26.85,Electronic check,DSL,No,Yes,2024-08-29,Moved/Not needed
+CUST0407,2023-09-26,17,Enterprise,One year,94.01,PayPal,Fiber optic,Yes,No,,
+CUST0408,2022-07-30,42,Basic,One year,17.24,PayPal,None,No,Yes,2026-01-10,Product features
+CUST0409,2025-09-27,1,Enterprise,One year,101.4,Electronic check,Fiber optic,No,No,,
+CUST0410,2022-01-21,14,Pro,Two year,61.66,Credit card,Fiber optic,No,No,,
+CUST0411,2022-09-12,3,Pro,Month-to-month,56.4,Electronic check,Fiber optic,Yes,Yes,2022-12-11,Price
+CUST0412,2022-12-02,27,Enterprise,Month-to-month,104.6,PayPal,Fiber optic,No,Yes,2025-02-19,Moved/Not needed
+CUST0413,2023-02-13,13,Pro,One year,47.06,Bank transfer,DSL,Yes,No,,
+CUST0414,2022-07-12,39,Enterprise,Month-to-month,94.58,Bank transfer,Fiber optic,Yes,No,,
+CUST0415,2022-01-27,29,Basic,Month-to-month,22.94,PayPal,Fiber optic,No,Yes,2024-06-15,Price
+CUST0416,2024-09-17,38,Pro,Month-to-month,43.5,Electronic check,DSL,No,Yes,2027-11-01,Competitor
+CUST0417,2025-11-17,31,Pro,One year,47.81,PayPal,DSL,Yes,No,,
+CUST0418,2022-06-27,22,Pro,Month-to-month,48.43,Credit card,DSL,No,No,,
+CUST0419,2023-03-10,42,Enterprise,Month-to-month,106.96,Bank transfer,DSL,Yes,Yes,2026-08-21,Product features
+CUST0420,2024-01-10,23,Enterprise,Month-to-month,97.23,PayPal,Fiber optic,No,Yes,2025-11-30,Support
+CUST0421,2025-09-17,46,Pro,Month-to-month,36.8,Bank transfer,DSL,No,No,,
+CUST0422,2024-10-11,48,Basic,Two year,21.52,Electronic check,Fiber optic,No,Yes,2028-09-20,Price
+CUST0423,2025-01-24,29,Basic,Month-to-month,15.5,PayPal,Fiber optic,No,No,,
+CUST0424,2024-04-29,33,Basic,One year,19.21,Credit card,Fiber optic,No,No,,
+CUST0425,2023-09-02,13,Basic,One year,18.57,PayPal,DSL,No,No,,
+CUST0426,2022-10-19,40,Basic,Month-to-month,17.63,Credit card,Fiber optic,No,No,,
+CUST0427,2025-06-16,33,Basic,One year,22.95,Bank transfer,DSL,No,No,,
+CUST0428,2025-03-20,44,Basic,One year,11.34,Bank transfer,Fiber optic,Yes,No,,
+CUST0429,2022-02-06,13,Pro,One year,46.41,Electronic check,Fiber optic,No,No,,
+CUST0430,2024-11-11,38,Basic,Month-to-month,22.42,Electronic check,Fiber optic,Yes,Yes,2027-12-26,Price
+CUST0431,2022-05-04,23,Enterprise,Month-to-month,95.93,Bank transfer,Fiber optic,No,Yes,2024-03-24,Competitor
+CUST0432,2024-12-15,9,Pro,Two year,40.96,PayPal,Fiber optic,Yes,No,,
+CUST0433,2025-04-21,9,Basic,One year,22.34,PayPal,DSL,Yes,No,,
+CUST0434,2022-07-11,27,Basic,Two year,24.62,PayPal,Fiber optic,No,Yes,2024-09-28,Product features
+CUST0435,2023-09-26,16,Basic,Two year,18.78,PayPal,Fiber optic,Yes,No,,
+CUST0436,2022-06-30,5,Enterprise,Month-to-month,89.2,Electronic check,DSL,Yes,Yes,2022-11-27,Competitor
+CUST0437,2024-04-08,21,Basic,One year,22.53,Electronic check,Fiber optic,No,No,,
+CUST0438,2025-09-17,32,Pro,Month-to-month,40.7,Electronic check,Fiber optic,Yes,Yes,2028-05-04,Competitor
+CUST0439,2022-04-29,16,Enterprise,One year,100.54,Credit card,Fiber optic,Yes,Yes,2023-08-22,Price
+CUST0440,2023-08-04,46,Enterprise,Month-to-month,94.56,Bank transfer,Fiber optic,No,Yes,2027-05-15,Support
+CUST0441,2025-11-22,38,Basic,Month-to-month,13.2,Bank transfer,Fiber optic,Yes,Yes,2029-01-05,Competitor
+CUST0442,2023-03-16,25,Basic,One year,16.79,PayPal,DSL,Yes,Yes,2025-04-04,Product features
+CUST0443,2022-07-13,45,Basic,One year,18.08,PayPal,Fiber optic,Yes,No,,
+CUST0444,2023-12-15,21,Basic,One year,15.78,PayPal,DSL,Yes,No,,
+CUST0445,2024-01-13,7,Basic,Month-to-month,21.94,Bank transfer,Fiber optic,Yes,Yes,2024-08-10,Product features
+CUST0446,2024-08-26,2,Pro,Month-to-month,46.77,Bank transfer,DSL,Yes,Yes,2024-10-25,Product features
+CUST0447,2023-04-04,46,Enterprise,Two year,103.9,Bank transfer,DSL,No,No,,
+CUST0448,2025-10-28,47,Pro,Month-to-month,50.41,Electronic check,Fiber optic,No,No,,
+CUST0449,2024-02-01,36,Pro,Month-to-month,45.51,Bank transfer,Fiber optic,Yes,Yes,2027-01-16,Moved/Not needed
+CUST0450,2023-02-23,5,Basic,One year,14.67,Credit card,Fiber optic,Yes,Yes,2023-07-23,Competitor
+CUST0451,2025-11-03,15,Pro,Month-to-month,40.76,Electronic check,None,No,No,,
+CUST0452,2025-09-13,2,Pro,One year,50.45,Credit card,None,No,No,,
+CUST0453,2023-12-31,3,Enterprise,Month-to-month,97.23,PayPal,Fiber optic,Yes,Yes,2024-03-30,Competitor
+CUST0454,2022-02-06,12,Enterprise,One year,87.14,Electronic check,DSL,No,No,,
+CUST0455,2024-05-22,28,Basic,Two year,16.32,Bank transfer,Fiber optic,Yes,Yes,2026-09-09,Moved/Not needed
+CUST0456,2024-03-22,4,Basic,Two year,14.49,Bank transfer,Fiber optic,No,No,,
+CUST0457,2022-08-05,48,Basic,One year,26.88,Bank transfer,DSL,No,No,,
+CUST0458,2024-07-15,22,Basic,Month-to-month,10.49,Credit card,Fiber optic,No,No,,
+CUST0459,2025-05-13,13,Enterprise,One year,91.79,Credit card,Fiber optic,Yes,No,,
+CUST0460,2022-06-04,25,Basic,One year,24.55,Credit card,DSL,Yes,No,,
+CUST0461,2024-11-22,38,Pro,One year,55.78,Bank transfer,Fiber optic,Yes,No,,
+CUST0462,2022-07-25,16,Pro,One year,45.28,PayPal,DSL,Yes,No,,
+CUST0463,2024-12-30,3,Basic,One year,15.84,Credit card,Fiber optic,Yes,No,,
+CUST0464,2023-09-05,3,Basic,One year,22.08,Electronic check,Fiber optic,No,Yes,2023-12-04,Product features
+CUST0465,2022-01-10,41,Pro,One year,37.36,PayPal,Fiber optic,Yes,Yes,2025-05-24,Support
+CUST0466,2025-11-12,6,Pro,Month-to-month,39.69,Credit card,None,No,Yes,2026-05-11,Price
+CUST0467,2022-08-31,31,Basic,Month-to-month,17.6,Electronic check,Fiber optic,Yes,Yes,2025-03-18,Moved/Not needed
+CUST0468,2024-05-20,19,Basic,One year,26.75,Credit card,Fiber optic,Yes,Yes,2025-12-11,Price
+CUST0469,2022-09-23,38,Pro,Month-to-month,46.82,PayPal,DSL,No,Yes,2025-11-06,Moved/Not needed
+CUST0470,2025-09-25,3,Basic,Two year,19.5,Bank transfer,None,No,No,,
+CUST0471,2024-12-14,44,Enterprise,One year,104.67,PayPal,None,Yes,No,,
+CUST0472,2025-03-21,34,Basic,Month-to-month,29.53,Electronic check,DSL,No,No,,
+CUST0473,2023-09-24,22,Basic,One year,16.12,Electronic check,Fiber optic,Yes,No,,
+CUST0474,2023-11-14,10,Basic,One year,18.92,Bank transfer,DSL,Yes,No,,
+CUST0475,2024-07-15,47,Pro,One year,58.11,PayPal,DSL,No,No,,
+CUST0476,2025-02-20,15,Pro,Month-to-month,41.39,Electronic check,DSL,Yes,No,,
+CUST0477,2025-05-22,24,Basic,Two year,24.14,PayPal,DSL,No,No,,
+CUST0478,2022-01-27,19,Enterprise,Month-to-month,93.91,Electronic check,Fiber optic,Yes,No,,
+CUST0479,2024-08-27,12,Basic,One year,19.51,Bank transfer,Fiber optic,No,No,,
+CUST0480,2022-06-09,20,Basic,Month-to-month,17.79,Bank transfer,DSL,No,No,,
+CUST0481,2023-02-25,8,Basic,One year,14.21,PayPal,Fiber optic,Yes,No,,
+CUST0482,2025-04-26,1,Basic,One year,14.08,Electronic check,Fiber optic,Yes,No,,
+CUST0483,2023-01-01,14,Pro,One year,50.38,Electronic check,Fiber optic,Yes,No,,
+CUST0484,2025-03-10,6,Basic,Month-to-month,23.98,PayPal,DSL,No,No,,
+CUST0485,2023-11-08,20,Pro,One year,48.35,PayPal,DSL,No,Yes,2025-06-30,Product features
+CUST0486,2022-12-06,42,Basic,One year,19.35,PayPal,DSL,No,Yes,2026-05-19,Moved/Not needed
+CUST0487,2023-05-04,8,Enterprise,Month-to-month,101.86,Bank transfer,DSL,Yes,Yes,2023-12-30,Competitor
+CUST0488,2024-02-15,1,Basic,Two year,14.14,Bank transfer,DSL,Yes,Yes,2024-03-16,Product features
+CUST0489,2025-01-22,6,Enterprise,One year,102.7,Bank transfer,DSL,No,No,,
+CUST0490,2024-06-04,25,Basic,Two year,23.1,Electronic check,Fiber optic,Yes,Yes,2026-06-24,Product features
+CUST0491,2025-09-25,14,Basic,Two year,32.02,PayPal,DSL,No,No,,
+CUST0492,2025-06-21,24,Pro,Two year,47.12,Electronic check,Fiber optic,Yes,Yes,2027-06-11,Product features
+CUST0493,2025-01-05,2,Pro,One year,46.71,Credit card,Fiber optic,Yes,No,,
+CUST0494,2024-05-31,16,Pro,One year,52.84,Electronic check,Fiber optic,No,Yes,2025-09-23,Support
+CUST0495,2023-02-28,20,Basic,Month-to-month,23.1,PayPal,DSL,No,Yes,2024-10-20,Price
+CUST0496,2023-08-26,21,Pro,Month-to-month,46.32,Electronic check,DSL,No,Yes,2025-05-17,Price
+CUST0497,2022-06-23,27,Enterprise,One year,96.98,Bank transfer,None,Yes,No,,
+CUST0498,2023-07-01,38,Pro,Month-to-month,51.71,Bank transfer,None,No,No,,
+CUST0499,2025-09-15,23,Basic,Two year,14.86,Credit card,DSL,No,No,,
+CUST0500,2023-09-15,41,Pro,Month-to-month,46.95,Electronic check,Fiber optic,No,Yes,2027-01-27,Moved/Not needed
+CUST0501,2022-06-16,26,Pro,Month-to-month,49.45,PayPal,DSL,No,Yes,2024-08-04,Competitor
+CUST0502,2024-08-10,13,Enterprise,Month-to-month,103.98,Electronic check,DSL,No,Yes,2025-09-04,Price
+CUST0503,2025-11-07,11,Basic,Month-to-month,15.98,Credit card,DSL,No,Yes,2026-10-03,Support
+CUST0504,2025-06-21,16,Basic,Month-to-month,9.79,Credit card,Fiber optic,Yes,No,,
+CUST0505,2023-02-05,29,Pro,Month-to-month,39.42,Electronic check,Fiber optic,Yes,Yes,2025-06-24,Moved/Not needed
+CUST0506,2023-10-26,12,Pro,One year,42.7,Credit card,None,No,No,,
+CUST0507,2024-02-15,44,Pro,Month-to-month,42.43,PayPal,Fiber optic,Yes,No,,
+CUST0508,2022-12-29,24,Basic,Month-to-month,18.23,Bank transfer,Fiber optic,Yes,Yes,2024-12-18,Moved/Not needed
+CUST0509,2023-01-28,42,Basic,Month-to-month,13.06,Electronic check,Fiber optic,No,Yes,2026-07-11,Moved/Not needed
+CUST0510,2022-12-12,33,Pro,Month-to-month,45.49,Electronic check,Fiber optic,Yes,Yes,2025-08-28,Moved/Not needed
+CUST0511,2025-12-24,17,Basic,Month-to-month,15.13,Electronic check,Fiber optic,No,Yes,2027-05-18,Price
+CUST0512,2024-12-25,11,Basic,One year,16.8,Bank transfer,None,No,Yes,2025-11-20,Support
+CUST0513,2025-05-13,36,Pro,One year,55.61,PayPal,DSL,Yes,No,,
+CUST0514,2025-04-08,16,Pro,Month-to-month,52.31,PayPal,None,No,Yes,2026-08-01,Product features
+CUST0515,2025-11-02,12,Enterprise,One year,99.08,Electronic check,Fiber optic,Yes,No,,
+CUST0516,2022-06-03,45,Basic,Month-to-month,16.69,Credit card,Fiber optic,No,No,,
+CUST0517,2025-07-12,24,Basic,Month-to-month,16.83,Electronic check,Fiber optic,No,No,,
+CUST0518,2022-04-08,3,Enterprise,Two year,100.64,Bank transfer,Fiber optic,Yes,No,,
+CUST0519,2023-11-26,24,Basic,Month-to-month,21.92,Credit card,Fiber optic,Yes,Yes,2025-11-15,Price
+CUST0520,2024-05-18,23,Basic,Two year,14.46,PayPal,DSL,Yes,Yes,2026-04-08,Support
+CUST0521,2023-06-07,42,Basic,Month-to-month,19.18,Electronic check,None,Yes,Yes,2026-11-18,Support
+CUST0522,2022-08-02,35,Pro,Month-to-month,38.84,Credit card,Fiber optic,Yes,No,,
+CUST0523,2022-10-08,10,Enterprise,Month-to-month,100.06,Credit card,Fiber optic,No,No,,
+CUST0524,2025-04-19,8,Pro,Month-to-month,52.81,Electronic check,Fiber optic,Yes,Yes,2025-12-15,Competitor
+CUST0525,2023-04-11,29,Pro,Two year,47.6,Electronic check,Fiber optic,No,Yes,2025-08-28,Support
+CUST0526,2023-03-30,3,Basic,Month-to-month,28.08,Credit card,Fiber optic,Yes,Yes,2023-06-28,Competitor
+CUST0527,2025-09-11,16,Basic,Two year,14.59,Electronic check,Fiber optic,No,Yes,2027-01-04,Moved/Not needed
+CUST0528,2022-07-30,7,Basic,Two year,20.09,Electronic check,Fiber optic,Yes,No,,
+CUST0529,2025-08-30,1,Basic,One year,18.82,Electronic check,Fiber optic,Yes,Yes,2025-09-29,Moved/Not needed
+CUST0530,2025-09-07,45,Basic,Month-to-month,18.5,Credit card,DSL,No,Yes,2029-05-19,Competitor
+CUST0531,2024-05-24,5,Basic,Month-to-month,18.43,PayPal,Fiber optic,Yes,Yes,2024-10-21,Competitor
+CUST0532,2022-08-30,1,Basic,Month-to-month,19.54,Electronic check,Fiber optic,No,Yes,2022-09-29,Support
+CUST0533,2022-08-16,45,Pro,One year,53.24,Electronic check,Fiber optic,Yes,No,,
+CUST0534,2023-02-20,10,Pro,Month-to-month,55.89,PayPal,Fiber optic,No,No,,
+CUST0535,2024-04-23,40,Basic,Two year,18.99,Credit card,DSL,No,Yes,2027-08-06,Product features
+CUST0536,2022-08-13,2,Basic,One year,23.08,Credit card,DSL,No,No,,
+CUST0537,2023-10-28,8,Pro,Month-to-month,45.49,Bank transfer,DSL,Yes,Yes,2024-06-24,Product features
+CUST0538,2022-06-18,6,Pro,One year,52.83,Credit card,DSL,Yes,Yes,2022-12-15,Competitor
+CUST0539,2024-02-29,34,Pro,Month-to-month,45.19,Credit card,Fiber optic,Yes,Yes,2026-12-15,Price
+CUST0540,2022-01-31,30,Basic,Two year,24.45,Credit card,Fiber optic,Yes,No,,
+CUST0541,2024-11-01,23,Pro,Month-to-month,60.05,Electronic check,Fiber optic,Yes,Yes,2026-09-22,Product features
+CUST0542,2022-03-22,12,Basic,Two year,18.39,PayPal,Fiber optic,No,Yes,2023-03-17,Support
+CUST0543,2022-10-12,5,Basic,One year,8.04,PayPal,DSL,No,No,,
+CUST0544,2022-09-13,28,Basic,Two year,16.26,Electronic check,Fiber optic,No,No,,
+CUST0545,2025-04-29,12,Basic,Month-to-month,25.16,Bank transfer,Fiber optic,Yes,No,,
+CUST0546,2022-03-19,29,Basic,One year,21.77,Bank transfer,Fiber optic,Yes,No,,
+CUST0547,2023-09-20,33,Basic,Month-to-month,20.24,Credit card,Fiber optic,No,No,,
+CUST0548,2024-05-13,41,Pro,One year,54.04,Bank transfer,None,Yes,No,,
+CUST0549,2024-01-24,24,Basic,Month-to-month,21.42,Credit card,Fiber optic,Yes,Yes,2026-01-13,Support
+CUST0550,2024-09-21,1,Basic,Month-to-month,25.09,PayPal,Fiber optic,No,Yes,2024-10-21,Moved/Not needed
+CUST0551,2025-03-19,14,Basic,Month-to-month,23.6,Electronic check,Fiber optic,No,Yes,2026-05-13,Support
+CUST0552,2023-07-30,41,Basic,Month-to-month,26.61,PayPal,DSL,No,No,,
+CUST0553,2025-04-25,26,Basic,Month-to-month,20.79,Bank transfer,Fiber optic,Yes,Yes,2027-06-14,Moved/Not needed
+CUST0554,2023-04-10,30,Basic,One year,23.53,PayPal,DSL,No,Yes,2025-09-26,Competitor
+CUST0555,2025-12-09,22,Basic,Month-to-month,17.46,Electronic check,Fiber optic,Yes,No,,
+CUST0556,2024-01-08,8,Pro,One year,45.99,Bank transfer,Fiber optic,Yes,Yes,2024-09-04,Moved/Not needed
+CUST0557,2024-12-11,44,Enterprise,Month-to-month,107.53,Bank transfer,DSL,No,No,,
+CUST0558,2025-07-02,38,Basic,One year,20.08,PayPal,Fiber optic,Yes,No,,
+CUST0559,2025-03-04,48,Pro,One year,53.02,Credit card,Fiber optic,No,No,,
+CUST0560,2025-05-28,42,Enterprise,Month-to-month,99.62,Electronic check,DSL,Yes,No,,
+CUST0561,2024-02-23,14,Enterprise,One year,96.07,Bank transfer,Fiber optic,Yes,Yes,2025-04-18,Price
+CUST0562,2022-03-05,13,Pro,Two year,49.05,Bank transfer,Fiber optic,No,No,,
+CUST0563,2023-12-22,12,Enterprise,One year,106.18,PayPal,DSL,Yes,No,,
+CUST0564,2022-09-23,45,Enterprise,Month-to-month,101.78,Credit card,Fiber optic,No,No,,
+CUST0565,2025-07-22,27,Pro,Month-to-month,40.44,Credit card,Fiber optic,Yes,Yes,2027-10-10,Price
+CUST0566,2022-12-12,22,Basic,One year,17.92,Credit card,Fiber optic,No,Yes,2024-10-02,Product features
+CUST0567,2022-11-30,47,Basic,Month-to-month,27.91,Bank transfer,DSL,Yes,Yes,2026-10-10,Product features
+CUST0568,2022-12-31,29,Basic,One year,17.93,PayPal,Fiber optic,Yes,No,,
+CUST0569,2024-07-27,44,Basic,Month-to-month,10.0,Credit card,Fiber optic,No,Yes,2028-03-08,Moved/Not needed
+CUST0570,2024-04-14,48,Basic,One year,28.47,Bank transfer,DSL,Yes,No,,
+CUST0571,2025-10-18,4,Basic,Month-to-month,22.41,Electronic check,DSL,Yes,No,,
+CUST0572,2023-09-01,18,Pro,Month-to-month,48.65,Electronic check,None,No,No,,
+CUST0573,2023-02-17,36,Pro,Two year,47.14,Credit card,Fiber optic,No,Yes,2026-02-01,Product features
+CUST0574,2022-03-13,40,Pro,Two year,54.41,PayPal,Fiber optic,No,No,,
+CUST0575,2022-01-11,8,Basic,Two year,16.29,Credit card,Fiber optic,No,Yes,2022-09-08,Price
+CUST0576,2023-06-30,16,Basic,Two year,24.74,PayPal,DSL,No,Yes,2024-10-22,Competitor
+CUST0577,2025-09-14,27,Pro,Month-to-month,51.71,Electronic check,Fiber optic,No,Yes,2027-12-03,Competitor
+CUST0578,2024-02-05,39,Pro,Month-to-month,50.22,Electronic check,DSL,No,Yes,2027-04-20,Moved/Not needed
+CUST0579,2025-07-29,6,Enterprise,Month-to-month,99.73,Credit card,Fiber optic,Yes,Yes,2026-01-25,Moved/Not needed
+CUST0580,2022-05-29,29,Enterprise,Month-to-month,98.13,Bank transfer,DSL,Yes,No,,
+CUST0581,2022-05-17,15,Enterprise,Month-to-month,104.23,Electronic check,DSL,No,Yes,2023-08-10,Competitor
+CUST0582,2025-05-02,11,Basic,Two year,14.67,Electronic check,Fiber optic,No,Yes,2026-03-28,Product features
+CUST0583,2022-06-05,25,Basic,Month-to-month,10.89,Bank transfer,None,No,Yes,2024-06-24,Price
+CUST0584,2022-03-17,20,Basic,Month-to-month,22.07,Credit card,None,Yes,No,,
+CUST0585,2023-08-14,31,Pro,Month-to-month,52.16,Bank transfer,Fiber optic,Yes,No,,
+CUST0586,2025-09-13,16,Enterprise,Month-to-month,101.4,PayPal,Fiber optic,No,Yes,2027-01-06,Moved/Not needed
+CUST0587,2024-10-04,40,Basic,Month-to-month,21.04,Bank transfer,DSL,No,Yes,2028-01-17,Product features
+CUST0588,2022-05-25,4,Pro,One year,47.4,Electronic check,Fiber optic,Yes,No,,
+CUST0589,2025-05-08,42,Basic,Month-to-month,22.94,Electronic check,Fiber optic,No,Yes,2028-10-19,Moved/Not needed
+CUST0590,2025-05-17,2,Basic,One year,18.77,Electronic check,Fiber optic,No,No,,
+CUST0591,2025-03-15,36,Basic,Two year,16.56,Credit card,None,No,No,,
+CUST0592,2025-08-11,17,Basic,One year,17.44,Electronic check,Fiber optic,Yes,No,,
+CUST0593,2022-12-17,19,Enterprise,One year,109.1,Electronic check,DSL,No,No,,
+CUST0594,2025-12-02,1,Basic,Month-to-month,10.33,Bank transfer,Fiber optic,No,Yes,2026-01-01,Moved/Not needed
+CUST0595,2023-04-14,34,Pro,Month-to-month,51.5,PayPal,Fiber optic,No,No,,
+CUST0596,2025-03-17,8,Pro,Month-to-month,40.6,Electronic check,DSL,Yes,Yes,2025-11-12,Product features
+CUST0597,2024-04-26,32,Basic,Two year,18.46,Electronic check,Fiber optic,No,No,,
+CUST0598,2025-02-12,35,Basic,One year,16.83,PayPal,Fiber optic,No,No,,
+CUST0599,2024-07-06,41,Pro,Month-to-month,38.57,Credit card,Fiber optic,Yes,Yes,2027-11-18,Support
+CUST0600,2024-07-27,34,Basic,Month-to-month,20.95,PayPal,DSL,Yes,No,,
+CUST0601,2024-06-19,15,Enterprise,One year,97.1,PayPal,Fiber optic,No,No,,
+CUST0602,2025-02-12,36,Basic,One year,8.5,Credit card,Fiber optic,No,Yes,2028-01-28,Product features
+CUST0603,2024-12-15,40,Pro,One year,53.2,Electronic check,Fiber optic,Yes,No,,
+CUST0604,2022-07-16,16,Pro,Two year,56.18,Credit card,Fiber optic,Yes,No,,
+CUST0605,2025-04-21,6,Basic,One year,26.45,Electronic check,Fiber optic,Yes,Yes,2025-10-18,Moved/Not needed
+CUST0606,2024-02-23,43,Basic,One year,20.79,PayPal,Fiber optic,No,No,,
+CUST0607,2023-04-18,8,Enterprise,Month-to-month,99.23,Bank transfer,Fiber optic,No,Yes,2023-12-14,Moved/Not needed
+CUST0608,2024-01-22,29,Basic,Month-to-month,25.64,Credit card,Fiber optic,Yes,Yes,2026-06-10,Product features
+CUST0609,2025-11-13,12,Basic,Two year,27.41,Credit card,DSL,Yes,No,,
+CUST0610,2025-06-06,7,Basic,One year,24.67,PayPal,DSL,Yes,Yes,2026-01-02,Product features
+CUST0611,2025-05-03,38,Basic,Month-to-month,14.29,Bank transfer,Fiber optic,No,Yes,2028-06-16,Competitor
+CUST0612,2023-11-08,7,Pro,One year,50.01,Electronic check,Fiber optic,No,Yes,2024-06-05,Support
+CUST0613,2025-02-19,33,Pro,Month-to-month,51.2,Credit card,Fiber optic,No,No,,
+CUST0614,2023-07-17,34,Basic,One year,9.95,Electronic check,None,Yes,Yes,2026-05-02,Price
+CUST0615,2024-09-29,3,Pro,Month-to-month,51.35,Electronic check,Fiber optic,Yes,Yes,2024-12-28,Moved/Not needed
+CUST0616,2024-07-23,9,Basic,One year,30.36,Credit card,Fiber optic,Yes,No,,
+CUST0617,2022-12-31,39,Basic,Month-to-month,22.2,PayPal,Fiber optic,No,Yes,2026-03-15,Competitor
+CUST0618,2023-01-25,25,Pro,Month-to-month,56.37,Electronic check,Fiber optic,No,Yes,2025-02-13,Moved/Not needed
+CUST0619,2022-03-31,6,Enterprise,Month-to-month,99.91,Bank transfer,Fiber optic,No,Yes,2022-09-27,Product features
+CUST0620,2022-07-24,48,Basic,One year,18.63,Credit card,Fiber optic,Yes,No,,
+CUST0621,2023-09-26,13,Basic,Month-to-month,20.91,Electronic check,DSL,No,Yes,2024-10-20,Support
+CUST0622,2023-11-30,1,Pro,Month-to-month,44.92,Bank transfer,DSL,Yes,No,,
+CUST0623,2022-08-30,45,Pro,One year,44.18,Credit card,DSL,No,No,,
+CUST0624,2023-09-02,1,Basic,Month-to-month,25.33,Electronic check,DSL,No,Yes,2023-10-02,Product features
+CUST0625,2024-06-01,27,Basic,Month-to-month,25.86,PayPal,Fiber optic,No,No,,
+CUST0626,2022-12-06,48,Pro,Month-to-month,44.04,Credit card,None,No,No,,
+CUST0627,2023-05-10,28,Basic,Two year,23.84,Bank transfer,DSL,Yes,No,,
+CUST0628,2023-06-21,29,Basic,Month-to-month,18.57,Credit card,DSL,No,Yes,2025-11-07,Price
+CUST0629,2024-01-08,19,Basic,Month-to-month,20.7,Electronic check,DSL,Yes,No,,
+CUST0630,2023-06-20,7,Basic,Month-to-month,21.3,Credit card,Fiber optic,No,No,,
+CUST0631,2024-12-12,28,Basic,Month-to-month,23.97,Electronic check,Fiber optic,Yes,No,,
+CUST0632,2023-04-24,44,Enterprise,Month-to-month,99.41,PayPal,Fiber optic,Yes,No,,
+CUST0633,2023-09-26,5,Pro,Month-to-month,56.05,PayPal,Fiber optic,Yes,No,,
+CUST0634,2023-07-09,43,Pro,Month-to-month,50.55,Electronic check,Fiber optic,Yes,No,,
+CUST0635,2022-09-25,20,Enterprise,Month-to-month,102.12,Electronic check,Fiber optic,No,No,,
+CUST0636,2024-09-28,26,Basic,Two year,14.83,Credit card,Fiber optic,No,Yes,2026-11-17,Product features
+CUST0637,2022-12-10,8,Basic,Month-to-month,29.79,Credit card,None,Yes,Yes,2023-08-07,Support
+CUST0638,2023-03-10,30,Enterprise,Month-to-month,101.35,Credit card,DSL,No,Yes,2025-08-26,Support
+CUST0639,2025-03-04,9,Basic,Two year,22.56,PayPal,DSL,No,Yes,2025-11-29,Product features
+CUST0640,2025-10-18,14,Pro,Two year,40.96,PayPal,Fiber optic,Yes,No,,
+CUST0641,2024-09-07,35,Pro,One year,44.89,Credit card,DSL,Yes,No,,
+CUST0642,2025-08-31,3,Basic,Month-to-month,25.19,Credit card,DSL,No,No,,
+CUST0643,2025-06-01,22,Basic,Month-to-month,20.43,PayPal,DSL,No,Yes,2027-03-23,Competitor
+CUST0644,2023-12-04,29,Basic,Month-to-month,9.43,PayPal,DSL,Yes,No,,
+CUST0645,2025-01-30,7,Basic,Month-to-month,24.19,Bank transfer,Fiber optic,No,Yes,2025-08-28,Support
+CUST0646,2023-04-25,15,Basic,Month-to-month,16.28,Electronic check,Fiber optic,Yes,Yes,2024-07-18,Competitor
+CUST0647,2023-11-04,17,Basic,One year,26.06,Electronic check,DSL,Yes,Yes,2025-03-28,Product features
+CUST0648,2024-02-22,32,Pro,Month-to-month,48.56,Electronic check,None,No,Yes,2026-10-09,Competitor
+CUST0649,2025-11-04,47,Enterprise,One year,100.02,Bank transfer,Fiber optic,No,No,,
+CUST0650,2025-05-24,41,Pro,Month-to-month,54.89,Electronic check,Fiber optic,No,No,,
+CUST0651,2023-12-16,10,Basic,Month-to-month,14.51,PayPal,Fiber optic,Yes,No,,
+CUST0652,2024-08-11,1,Basic,One year,14.04,PayPal,Fiber optic,Yes,Yes,2024-09-10,Support
+CUST0653,2022-10-23,3,Basic,Two year,18.02,Bank transfer,None,Yes,Yes,2023-01-21,Competitor
+CUST0654,2025-03-21,29,Basic,Month-to-month,23.14,Electronic check,DSL,Yes,Yes,2027-08-08,Moved/Not needed
+CUST0655,2024-03-18,8,Enterprise,One year,92.35,PayPal,Fiber optic,Yes,No,,
+CUST0656,2024-02-18,12,Basic,Month-to-month,10.66,Credit card,Fiber optic,No,No,,
+CUST0657,2025-01-24,41,Basic,Month-to-month,23.12,Electronic check,Fiber optic,No,Yes,2028-06-07,Moved/Not needed
+CUST0658,2024-07-13,42,Pro,One year,45.99,Credit card,Fiber optic,No,Yes,2027-12-25,Product features
+CUST0659,2022-04-16,41,Basic,Month-to-month,17.04,PayPal,Fiber optic,Yes,Yes,2025-08-28,Product features
+CUST0660,2023-02-25,13,Basic,Month-to-month,9.72,PayPal,DSL,Yes,No,,
+CUST0661,2022-09-16,30,Basic,Month-to-month,15.61,PayPal,DSL,No,Yes,2025-03-04,Product features
+CUST0662,2024-12-09,30,Pro,Month-to-month,48.96,Credit card,Fiber optic,Yes,Yes,2027-05-28,Competitor
+CUST0663,2022-02-21,9,Pro,Month-to-month,53.65,Bank transfer,DSL,No,Yes,2022-11-18,Moved/Not needed
+CUST0664,2022-10-23,27,Basic,Month-to-month,15.14,Electronic check,DSL,Yes,Yes,2025-01-10,Price
+CUST0665,2024-05-22,26,Enterprise,Two year,107.29,Credit card,Fiber optic,No,Yes,2026-07-11,Moved/Not needed
+CUST0666,2024-10-12,20,Enterprise,One year,95.58,PayPal,DSL,No,Yes,2026-06-04,Competitor
+CUST0667,2024-01-06,37,Pro,Month-to-month,45.58,Electronic check,DSL,No,No,,
+CUST0668,2025-06-11,33,Basic,Month-to-month,26.69,Electronic check,DSL,No,Yes,2028-02-26,Moved/Not needed
+CUST0669,2025-09-04,26,Basic,One year,20.06,PayPal,Fiber optic,No,Yes,2027-10-24,Product features
+CUST0670,2022-07-13,35,Enterprise,Month-to-month,96.24,Bank transfer,Fiber optic,Yes,No,,
+CUST0671,2025-10-23,37,Basic,Month-to-month,18.22,PayPal,Fiber optic,No,Yes,2028-11-06,Support
+CUST0672,2024-06-16,28,Pro,One year,55.77,Bank transfer,Fiber optic,No,No,,
+CUST0673,2024-07-18,13,Pro,Month-to-month,56.33,PayPal,Fiber optic,No,No,,
+CUST0674,2022-05-19,37,Basic,Month-to-month,14.92,PayPal,DSL,Yes,Yes,2025-06-02,Moved/Not needed
+CUST0675,2024-06-27,35,Pro,Month-to-month,48.79,PayPal,Fiber optic,Yes,No,,
+CUST0676,2024-11-26,48,Enterprise,Month-to-month,99.45,Credit card,Fiber optic,No,No,,
+CUST0677,2024-04-28,8,Pro,Month-to-month,44.07,Electronic check,None,No,Yes,2024-12-24,Moved/Not needed
+CUST0678,2022-05-04,21,Basic,Two year,18.72,PayPal,Fiber optic,Yes,No,,
+CUST0679,2024-02-04,45,Enterprise,Month-to-month,99.03,Electronic check,Fiber optic,Yes,Yes,2027-10-16,Support
+CUST0680,2025-09-29,25,Pro,One year,54.7,PayPal,DSL,Yes,Yes,2027-10-19,Product features
+CUST0681,2024-11-22,46,Pro,One year,55.04,Electronic check,Fiber optic,No,No,,
+CUST0682,2022-07-20,1,Pro,Month-to-month,47.35,Electronic check,Fiber optic,Yes,Yes,2022-08-19,Support
+CUST0683,2025-11-03,2,Pro,Month-to-month,47.93,Electronic check,DSL,Yes,Yes,2026-01-02,Price
+CUST0684,2025-11-01,39,Basic,Month-to-month,22.32,PayPal,Fiber optic,Yes,No,,
+CUST0685,2022-09-05,18,Basic,One year,16.07,PayPal,Fiber optic,No,Yes,2024-02-27,Price
+CUST0686,2025-03-16,25,Basic,Month-to-month,21.94,Credit card,Fiber optic,Yes,Yes,2027-04-05,Price
+CUST0687,2023-08-18,21,Pro,One year,48.56,Bank transfer,DSL,Yes,No,,
+CUST0688,2024-05-17,20,Pro,Two year,44.15,Bank transfer,Fiber optic,No,No,,
+CUST0689,2023-10-13,46,Pro,One year,44.22,Electronic check,DSL,Yes,No,,
+CUST0690,2025-02-17,5,Basic,Two year,26.24,PayPal,Fiber optic,No,No,,
+CUST0691,2025-12-27,38,Pro,One year,48.22,Bank transfer,DSL,No,No,,
+CUST0692,2025-03-07,43,Enterprise,Two year,107.2,Credit card,Fiber optic,Yes,No,,
+CUST0693,2025-09-22,32,Basic,One year,16.43,PayPal,Fiber optic,Yes,Yes,2028-05-09,Product features
+CUST0694,2025-10-14,19,Pro,One year,50.46,Bank transfer,Fiber optic,Yes,No,,
+CUST0695,2022-05-12,8,Pro,One year,60.96,Credit card,DSL,Yes,No,,
+CUST0696,2023-01-06,33,Pro,Two year,43.71,Bank transfer,Fiber optic,Yes,No,,
+CUST0697,2024-11-20,23,Basic,Month-to-month,9.51,Electronic check,Fiber optic,Yes,Yes,2026-10-11,Product features
+CUST0698,2024-05-12,8,Pro,One year,55.43,Credit card,Fiber optic,Yes,Yes,2025-01-07,Product features
+CUST0699,2022-03-15,18,Enterprise,Month-to-month,94.87,Bank transfer,Fiber optic,No,Yes,2023-09-06,Competitor
+CUST0700,2022-05-19,47,Pro,Two year,48.9,PayPal,DSL,Yes,No,,
+CUST0701,2024-01-31,13,Enterprise,Month-to-month,96.07,Credit card,Fiber optic,Yes,Yes,2025-02-24,Support
+CUST0702,2024-06-19,9,Enterprise,One year,100.34,Credit card,Fiber optic,No,No,,
+CUST0703,2022-09-03,33,Basic,One year,14.25,Electronic check,Fiber optic,Yes,Yes,2025-05-20,Support
+CUST0704,2022-09-08,10,Pro,Two year,48.1,PayPal,Fiber optic,Yes,Yes,2023-07-05,Support
+CUST0705,2022-07-08,45,Basic,Month-to-month,21.25,Credit card,Fiber optic,Yes,Yes,2026-03-19,Support
+CUST0706,2024-04-05,42,Enterprise,One year,93.96,Credit card,Fiber optic,Yes,Yes,2027-09-17,Product features
+CUST0707,2022-01-12,48,Basic,One year,15.5,Bank transfer,Fiber optic,Yes,No,,
+CUST0708,2024-04-16,44,Basic,Two year,17.26,PayPal,None,No,Yes,2027-11-27,Support
+CUST0709,2023-11-27,12,Enterprise,Two year,91.86,PayPal,Fiber optic,No,Yes,2024-11-21,Support
+CUST0710,2023-11-12,11,Basic,One year,16.89,Credit card,DSL,Yes,Yes,2024-10-07,Moved/Not needed
+CUST0711,2024-09-19,17,Pro,One year,49.59,PayPal,Fiber optic,Yes,No,,
+CUST0712,2024-02-03,23,Basic,Month-to-month,17.0,Electronic check,Fiber optic,No,Yes,2025-12-24,Competitor
+CUST0713,2024-11-29,43,Enterprise,Two year,97.64,Credit card,Fiber optic,No,No,,
+CUST0714,2025-01-21,36,Enterprise,Month-to-month,98.9,Credit card,Fiber optic,Yes,Yes,2028-01-06,Support
+CUST0715,2025-09-06,31,Basic,One year,15.72,Electronic check,DSL,Yes,No,,
+CUST0716,2025-03-13,43,Pro,One year,52.46,PayPal,DSL,Yes,No,,
+CUST0717,2024-01-27,32,Basic,Month-to-month,26.18,Electronic check,DSL,No,No,,
+CUST0718,2023-12-21,19,Pro,Month-to-month,46.68,Bank transfer,DSL,Yes,No,,
+CUST0719,2022-12-11,20,Pro,Month-to-month,51.43,Bank transfer,Fiber optic,Yes,Yes,2024-08-02,Price
+CUST0720,2024-05-26,25,Pro,Two year,47.8,Credit card,Fiber optic,Yes,No,,
+CUST0721,2022-07-23,5,Basic,Month-to-month,20.83,Credit card,DSL,Yes,No,,
+CUST0722,2025-09-22,36,Basic,Month-to-month,26.83,Bank transfer,Fiber optic,No,Yes,2028-09-06,Support
+CUST0723,2025-05-19,32,Pro,One year,51.54,Credit card,Fiber optic,No,No,,
+CUST0724,2022-06-24,36,Pro,Month-to-month,40.13,Electronic check,None,No,No,,
+CUST0725,2025-02-22,26,Basic,Two year,21.27,PayPal,None,Yes,Yes,2027-04-13,Product features
+CUST0726,2022-06-21,38,Basic,Month-to-month,25.16,Electronic check,DSL,Yes,No,,
+CUST0727,2024-11-19,46,Basic,Month-to-month,17.89,PayPal,Fiber optic,No,No,,
+CUST0728,2022-05-09,28,Enterprise,Month-to-month,103.98,Bank transfer,DSL,No,Yes,2024-08-26,Competitor
+CUST0729,2023-12-15,22,Basic,Month-to-month,15.55,PayPal,Fiber optic,Yes,No,,
+CUST0730,2024-08-19,6,Basic,Month-to-month,11.57,Credit card,Fiber optic,Yes,No,,
+CUST0731,2024-11-30,38,Enterprise,One year,99.71,Electronic check,Fiber optic,No,No,,
+CUST0732,2023-09-04,44,Basic,Month-to-month,10.22,PayPal,None,No,Yes,2027-04-16,Price
+CUST0733,2025-09-08,34,Pro,Month-to-month,47.8,Credit card,None,No,Yes,2028-06-24,Price
+CUST0734,2025-02-05,42,Basic,Month-to-month,25.43,PayPal,DSL,No,Yes,2028-07-19,Product features
+CUST0735,2022-11-01,42,Enterprise,Month-to-month,89.45,PayPal,Fiber optic,Yes,No,,
+CUST0736,2024-09-07,39,Pro,Two year,42.6,Credit card,Fiber optic,Yes,No,,
+CUST0737,2024-12-03,25,Enterprise,Month-to-month,93.84,Credit card,Fiber optic,Yes,Yes,2026-12-23,Competitor
+CUST0738,2023-05-03,5,Basic,Two year,18.68,Electronic check,DSL,No,No,,
+CUST0739,2024-12-14,1,Pro,Month-to-month,47.17,Bank transfer,Fiber optic,No,No,,
+CUST0740,2025-08-05,10,Pro,Month-to-month,56.0,PayPal,Fiber optic,Yes,Yes,2026-06-01,Product features
+CUST0741,2025-04-08,21,Basic,Month-to-month,23.77,Credit card,DSL,No,Yes,2026-12-29,Competitor
+CUST0742,2025-01-19,36,Basic,Month-to-month,21.48,PayPal,Fiber optic,Yes,No,,
+CUST0743,2024-07-16,22,Basic,One year,19.73,Credit card,DSL,Yes,Yes,2026-05-07,Moved/Not needed
+CUST0744,2023-01-31,2,Enterprise,Month-to-month,100.97,Bank transfer,Fiber optic,Yes,Yes,2023-04-01,Price
+CUST0745,2025-03-07,11,Pro,Month-to-month,44.69,PayPal,DSL,No,Yes,2026-01-31,Product features
+CUST0746,2023-06-17,48,Pro,One year,53.29,Bank transfer,Fiber optic,No,No,,
+CUST0747,2024-02-17,48,Pro,One year,43.44,PayPal,Fiber optic,No,Yes,2028-01-27,Moved/Not needed
+CUST0748,2023-04-05,19,Pro,Two year,53.18,Credit card,Fiber optic,No,No,,
+CUST0749,2023-04-03,39,Basic,Two year,24.93,Bank transfer,Fiber optic,No,No,,
+CUST0750,2022-08-19,35,Basic,One year,20.05,Electronic check,DSL,No,Yes,2025-07-04,Product features
+CUST0751,2025-11-05,45,Pro,One year,48.12,Bank transfer,Fiber optic,No,Yes,2029-07-17,Price
+CUST0752,2022-08-04,43,Basic,One year,21.0,Credit card,Fiber optic,Yes,No,,
+CUST0753,2022-05-07,31,Enterprise,Month-to-month,84.69,Electronic check,DSL,No,No,,
+CUST0754,2025-09-29,19,Pro,One year,50.51,Electronic check,Fiber optic,No,Yes,2027-04-22,Price
+CUST0755,2024-03-21,31,Basic,Month-to-month,18.43,PayPal,DSL,No,No,,
+CUST0756,2023-10-02,16,Pro,One year,48.75,Electronic check,DSL,Yes,No,,
+CUST0757,2024-12-13,17,Basic,Two year,22.53,Electronic check,Fiber optic,No,No,,
+CUST0758,2023-07-15,30,Enterprise,Month-to-month,98.63,PayPal,DSL,No,No,,
+CUST0759,2022-07-06,28,Enterprise,One year,93.3,PayPal,Fiber optic,Yes,Yes,2024-10-23,Moved/Not needed
+CUST0760,2024-12-02,28,Enterprise,Two year,98.29,Credit card,Fiber optic,No,Yes,2027-03-22,Product features
+CUST0761,2022-09-15,19,Basic,Month-to-month,19.34,PayPal,Fiber optic,Yes,Yes,2024-04-07,Product features
+CUST0762,2024-03-18,20,Basic,Month-to-month,19.57,Bank transfer,DSL,Yes,No,,
+CUST0763,2025-10-18,1,Basic,Two year,19.81,Electronic check,DSL,Yes,No,,
+CUST0764,2025-09-29,29,Basic,Two year,24.2,Bank transfer,Fiber optic,No,No,,
+CUST0765,2023-06-12,28,Basic,Month-to-month,13.57,Electronic check,None,No,Yes,2025-09-29,Support
+CUST0766,2025-02-14,45,Basic,Month-to-month,19.88,PayPal,Fiber optic,Yes,No,,
+CUST0767,2024-06-14,25,Enterprise,One year,105.45,PayPal,DSL,No,Yes,2026-07-04,Support
+CUST0768,2023-12-02,23,Basic,Month-to-month,10.33,Electronic check,DSL,Yes,Yes,2025-10-22,Moved/Not needed
+CUST0769,2022-07-24,4,Basic,Month-to-month,19.9,Bank transfer,None,Yes,Yes,2022-11-21,Price
+CUST0770,2023-07-04,10,Pro,Month-to-month,46.07,Bank transfer,None,No,No,,
+CUST0771,2024-08-10,17,Pro,Month-to-month,47.15,Bank transfer,None,No,Yes,2026-01-02,Product features
+CUST0772,2025-12-12,19,Pro,One year,44.48,Electronic check,Fiber optic,No,No,,
+CUST0773,2022-01-08,18,Pro,One year,48.15,Electronic check,DSL,No,No,,
+CUST0774,2024-11-14,19,Enterprise,One year,108.21,Credit card,DSL,No,No,,
+CUST0775,2025-05-21,37,Pro,One year,42.68,Bank transfer,DSL,Yes,Yes,2028-06-04,Support
+CUST0776,2025-10-21,7,Pro,Month-to-month,43.15,Bank transfer,Fiber optic,Yes,No,,
+CUST0777,2023-09-12,16,Pro,Month-to-month,42.49,PayPal,None,Yes,No,,
+CUST0778,2022-06-23,8,Basic,Month-to-month,27.64,Credit card,Fiber optic,No,Yes,2023-02-18,Moved/Not needed
+CUST0779,2023-01-31,15,Basic,Month-to-month,16.69,PayPal,Fiber optic,No,No,,
+CUST0780,2025-05-27,33,Basic,Month-to-month,18.87,PayPal,Fiber optic,No,No,,
+CUST0781,2025-07-06,3,Basic,Month-to-month,16.99,Credit card,Fiber optic,Yes,Yes,2025-10-04,Moved/Not needed
+CUST0782,2024-07-19,17,Pro,Month-to-month,44.28,Credit card,DSL,Yes,No,,
+CUST0783,2022-06-29,2,Basic,Month-to-month,17.82,PayPal,Fiber optic,No,Yes,2022-08-28,Product features
+CUST0784,2022-06-28,46,Basic,One year,31.29,Bank transfer,DSL,No,Yes,2026-04-08,Support
+CUST0785,2023-11-30,35,Basic,One year,25.96,Electronic check,DSL,Yes,No,,
+CUST0786,2024-05-09,12,Pro,Two year,44.74,Electronic check,Fiber optic,Yes,Yes,2025-05-04,Support
+CUST0787,2022-02-17,10,Basic,One year,22.24,Electronic check,DSL,Yes,Yes,2022-12-14,Support
+CUST0788,2024-09-29,5,Pro,One year,44.84,PayPal,Fiber optic,Yes,Yes,2025-02-26,Support
+CUST0789,2024-03-06,23,Enterprise,Month-to-month,90.12,Electronic check,DSL,Yes,Yes,2026-01-25,Moved/Not needed
+CUST0790,2022-01-18,37,Basic,One year,24.1,Credit card,None,Yes,No,,
+CUST0791,2022-05-20,29,Pro,Month-to-month,54.8,Bank transfer,Fiber optic,No,No,,
+CUST0792,2023-10-26,43,Basic,Month-to-month,24.23,Credit card,DSL,Yes,Yes,2027-05-08,Price
+CUST0793,2024-11-21,17,Basic,Month-to-month,16.65,PayPal,Fiber optic,Yes,Yes,2026-04-15,Price
+CUST0794,2025-04-20,14,Pro,Month-to-month,48.17,PayPal,Fiber optic,Yes,No,,
+CUST0795,2023-09-23,23,Enterprise,Month-to-month,102.75,Bank transfer,DSL,No,No,,
+CUST0796,2023-03-08,10,Basic,One year,20.96,Bank transfer,Fiber optic,Yes,No,,
+CUST0797,2025-11-15,47,Pro,One year,47.03,PayPal,DSL,Yes,No,,
+CUST0798,2023-11-01,9,Basic,One year,10.9,Credit card,Fiber optic,Yes,Yes,2024-07-28,Product features
+CUST0799,2023-04-06,23,Pro,One year,49.57,PayPal,Fiber optic,No,Yes,2025-02-24,Support
+CUST0800,2023-10-09,26,Pro,Month-to-month,54.4,PayPal,DSL,No,Yes,2025-11-27,Competitor
+CUST0801,2022-01-18,3,Pro,Month-to-month,43.01,Credit card,Fiber optic,Yes,No,,
+CUST0802,2023-03-18,23,Pro,One year,52.19,Credit card,DSL,Yes,No,,
+CUST0803,2024-01-24,22,Basic,Month-to-month,20.66,Bank transfer,Fiber optic,Yes,Yes,2025-11-14,Moved/Not needed
+CUST0804,2025-09-03,13,Pro,Month-to-month,52.75,PayPal,DSL,No,No,,
+CUST0805,2024-12-14,7,Pro,Month-to-month,53.36,Bank transfer,DSL,No,Yes,2025-07-12,Moved/Not needed
+CUST0806,2025-02-15,3,Pro,Two year,45.53,Bank transfer,Fiber optic,Yes,Yes,2025-05-16,Product features
+CUST0807,2024-03-07,1,Basic,One year,10.92,PayPal,Fiber optic,Yes,No,,
+CUST0808,2022-06-11,24,Basic,Month-to-month,16.33,Credit card,Fiber optic,No,Yes,2024-05-31,Product features
+CUST0809,2023-07-26,5,Basic,One year,23.45,PayPal,None,No,No,,
+CUST0810,2025-12-27,47,Basic,Month-to-month,16.29,Credit card,Fiber optic,Yes,Yes,2029-11-06,Product features
+CUST0811,2022-03-06,12,Basic,Month-to-month,15.53,Credit card,Fiber optic,Yes,No,,
+CUST0812,2025-07-08,32,Basic,Month-to-month,9.89,Credit card,DSL,Yes,Yes,2028-02-23,Price
+CUST0813,2024-09-27,33,Pro,Month-to-month,57.76,Bank transfer,Fiber optic,No,No,,
+CUST0814,2023-02-19,24,Basic,One year,23.13,Credit card,Fiber optic,No,No,,
+CUST0815,2025-02-10,43,Pro,Month-to-month,52.85,Electronic check,Fiber optic,No,Yes,2028-08-23,Product features
+CUST0816,2025-05-07,6,Pro,One year,53.84,Bank transfer,Fiber optic,No,Yes,2025-11-03,Competitor
+CUST0817,2022-03-05,12,Pro,Month-to-month,51.88,Electronic check,DSL,Yes,No,,
+CUST0818,2022-06-05,13,Basic,One year,17.78,Electronic check,DSL,Yes,No,,
+CUST0819,2024-08-30,7,Basic,One year,18.18,Electronic check,None,Yes,Yes,2025-03-28,Support
+CUST0820,2025-12-30,15,Pro,One year,46.86,Electronic check,DSL,No,No,,
+CUST0821,2022-02-05,16,Enterprise,One year,112.17,Credit card,Fiber optic,No,Yes,2023-05-31,Price
+CUST0822,2024-08-30,37,Basic,Two year,21.78,Bank transfer,Fiber optic,Yes,No,,
+CUST0823,2022-07-19,15,Pro,Month-to-month,46.68,PayPal,DSL,Yes,No,,
+CUST0824,2024-08-07,43,Pro,One year,51.33,PayPal,None,No,Yes,2028-02-18,Product features
+CUST0825,2024-06-29,38,Pro,One year,43.95,Credit card,DSL,No,No,,
+CUST0826,2022-05-13,44,Basic,Month-to-month,26.52,PayPal,Fiber optic,No,Yes,2025-12-23,Support
+CUST0827,2024-09-21,6,Pro,Month-to-month,45.69,Electronic check,DSL,Yes,Yes,2025-03-20,Moved/Not needed
+CUST0828,2025-08-03,48,Basic,Month-to-month,21.51,Electronic check,DSL,No,Yes,2029-07-13,Competitor
+CUST0829,2025-06-15,30,Enterprise,Month-to-month,104.33,Bank transfer,None,No,Yes,2027-12-02,Competitor
+CUST0830,2022-02-12,48,Basic,Month-to-month,20.92,Credit card,DSL,No,No,,
+CUST0831,2022-12-26,18,Basic,Month-to-month,19.47,Bank transfer,Fiber optic,No,Yes,2024-06-18,Support
+CUST0832,2022-12-18,46,Enterprise,One year,99.05,Bank transfer,Fiber optic,No,No,,
+CUST0833,2023-10-25,29,Basic,Month-to-month,18.72,Bank transfer,Fiber optic,No,Yes,2026-03-13,Competitor
+CUST0834,2022-07-28,4,Basic,One year,16.12,Bank transfer,Fiber optic,No,No,,
+CUST0835,2025-06-02,20,Basic,Month-to-month,16.75,Bank transfer,None,Yes,Yes,2027-01-23,Price
+CUST0836,2025-02-08,7,Basic,One year,26.4,Credit card,Fiber optic,Yes,Yes,2025-09-06,Support
+CUST0837,2025-03-26,46,Basic,Month-to-month,18.46,Bank transfer,Fiber optic,No,No,,
+CUST0838,2022-10-17,15,Basic,Month-to-month,15.07,Bank transfer,Fiber optic,No,Yes,2024-01-10,Support
+CUST0839,2022-01-22,11,Pro,Month-to-month,46.42,Credit card,DSL,Yes,No,,
+CUST0840,2025-08-23,27,Pro,One year,54.5,Electronic check,Fiber optic,Yes,No,,
+CUST0841,2023-02-27,21,Basic,Month-to-month,22.38,PayPal,Fiber optic,No,No,,
+CUST0842,2024-08-16,5,Pro,Two year,51.8,Electronic check,DSL,No,Yes,2025-01-13,Competitor
+CUST0843,2025-08-21,40,Basic,Month-to-month,17.71,PayPal,Fiber optic,No,Yes,2028-12-03,Moved/Not needed
+CUST0844,2022-02-22,41,Enterprise,One year,101.87,Credit card,Fiber optic,Yes,Yes,2025-07-06,Support
+CUST0845,2022-01-08,36,Basic,Month-to-month,15.78,Electronic check,Fiber optic,No,No,,
+CUST0846,2022-01-08,30,Pro,One year,47.7,Bank transfer,DSL,No,No,,
+CUST0847,2022-08-17,20,Basic,Month-to-month,23.85,PayPal,DSL,Yes,No,,
+CUST0848,2022-03-17,27,Pro,Month-to-month,53.37,Bank transfer,DSL,Yes,Yes,2024-06-04,Price
+CUST0849,2025-04-12,26,Basic,Month-to-month,14.09,Bank transfer,Fiber optic,No,No,,
+CUST0850,2024-06-04,8,Pro,Month-to-month,44.72,Bank transfer,None,Yes,Yes,2025-01-30,Moved/Not needed
+CUST0851,2025-12-02,4,Basic,Month-to-month,19.54,Bank transfer,DSL,No,No,,
+CUST0852,2025-03-16,13,Enterprise,Two year,107.63,PayPal,Fiber optic,No,No,,
+CUST0853,2025-11-08,22,Pro,Month-to-month,39.42,PayPal,Fiber optic,No,Yes,2027-08-30,Moved/Not needed
+CUST0854,2022-12-15,8,Pro,Month-to-month,50.39,Credit card,Fiber optic,Yes,Yes,2023-08-12,Competitor
+CUST0855,2023-02-25,6,Pro,Two year,42.12,Credit card,DSL,No,No,,
+CUST0856,2025-05-25,41,Enterprise,Month-to-month,95.83,Electronic check,Fiber optic,Yes,Yes,2028-10-06,Product features
+CUST0857,2022-12-24,18,Basic,Month-to-month,17.18,PayPal,Fiber optic,No,Yes,2024-06-16,Price
+CUST0858,2022-03-25,29,Basic,One year,16.9,Electronic check,DSL,Yes,No,,
+CUST0859,2024-09-04,26,Basic,Two year,16.33,PayPal,DSL,No,No,,
+CUST0860,2025-03-16,36,Basic,One year,19.04,PayPal,DSL,No,No,,
+CUST0861,2025-11-15,36,Pro,Month-to-month,46.32,Electronic check,DSL,Yes,Yes,2028-10-30,Support
+CUST0862,2025-09-17,15,Enterprise,Two year,91.69,PayPal,Fiber optic,Yes,Yes,2026-12-11,Moved/Not needed
+CUST0863,2022-06-25,41,Enterprise,Month-to-month,102.9,Bank transfer,DSL,No,No,,
+CUST0864,2025-02-02,18,Pro,Two year,52.76,PayPal,Fiber optic,Yes,No,,
+CUST0865,2025-05-21,41,Pro,One year,53.22,Credit card,Fiber optic,Yes,Yes,2028-10-02,Support
+CUST0866,2024-10-16,20,Enterprise,Two year,91.3,Bank transfer,None,No,Yes,2026-06-08,Price
+CUST0867,2025-04-12,6,Enterprise,Month-to-month,100.49,PayPal,Fiber optic,No,Yes,2025-10-09,Competitor
+CUST0868,2025-05-09,37,Basic,Month-to-month,22.38,Credit card,Fiber optic,No,Yes,2028-05-23,Product features
+CUST0869,2023-10-15,2,Pro,One year,43.84,PayPal,DSL,Yes,Yes,2023-12-14,Support
+CUST0870,2022-02-28,38,Pro,Month-to-month,49.05,PayPal,Fiber optic,No,Yes,2025-04-13,Product features
+CUST0871,2023-10-29,3,Basic,Month-to-month,18.42,Bank transfer,Fiber optic,No,Yes,2024-01-27,Moved/Not needed
+CUST0872,2022-10-22,10,Basic,Two year,28.21,Credit card,DSL,Yes,No,,
+CUST0873,2022-06-16,29,Enterprise,One year,108.62,PayPal,DSL,Yes,No,,
+CUST0874,2022-07-02,46,Enterprise,Month-to-month,90.68,Electronic check,DSL,Yes,Yes,2026-04-12,Price
+CUST0875,2024-10-15,20,Enterprise,Month-to-month,111.47,PayPal,Fiber optic,Yes,Yes,2026-06-07,Product features
+CUST0876,2024-01-08,6,Pro,Month-to-month,44.42,Bank transfer,DSL,No,No,,
+CUST0877,2024-02-28,12,Basic,Month-to-month,23.9,PayPal,DSL,Yes,No,,
+CUST0878,2024-12-24,44,Basic,Month-to-month,23.85,Bank transfer,Fiber optic,No,Yes,2028-08-05,Support
+CUST0879,2024-03-12,35,Pro,One year,44.02,Bank transfer,Fiber optic,Yes,Yes,2027-01-26,Price
+CUST0880,2024-07-09,5,Pro,One year,51.47,Bank transfer,Fiber optic,Yes,Yes,2024-12-06,Price
+CUST0881,2022-05-06,19,Pro,Month-to-month,48.46,Credit card,Fiber optic,Yes,No,,
+CUST0882,2025-05-28,13,Pro,Month-to-month,51.77,Electronic check,Fiber optic,No,Yes,2026-06-22,Product features
+CUST0883,2023-10-18,9,Basic,One year,20.15,PayPal,DSL,No,Yes,2024-07-14,Product features
+CUST0884,2022-08-15,41,Pro,One year,54.98,Credit card,None,Yes,No,,
+CUST0885,2025-04-03,30,Basic,Two year,19.38,Electronic check,Fiber optic,Yes,No,,
+CUST0886,2024-12-09,9,Basic,Month-to-month,18.16,Credit card,DSL,Yes,Yes,2025-09-05,Product features
+CUST0887,2022-03-19,32,Basic,One year,24.48,PayPal,Fiber optic,No,Yes,2024-11-03,Moved/Not needed
+CUST0888,2022-10-10,20,Basic,Month-to-month,21.9,Credit card,Fiber optic,Yes,No,,
+CUST0889,2022-01-24,3,Enterprise,Month-to-month,102.66,Bank transfer,DSL,No,Yes,2022-04-24,Product features
+CUST0890,2023-01-31,22,Basic,Two year,15.68,PayPal,Fiber optic,Yes,Yes,2024-11-21,Product features
+CUST0891,2022-05-27,9,Basic,Month-to-month,13.77,Electronic check,None,Yes,Yes,2023-02-21,Competitor
+CUST0892,2024-11-03,12,Pro,Month-to-month,46.16,Electronic check,Fiber optic,No,Yes,2025-10-29,Moved/Not needed
+CUST0893,2024-02-03,43,Pro,Month-to-month,45.9,Electronic check,Fiber optic,No,No,,
+CUST0894,2025-12-03,35,Basic,Month-to-month,22.93,Credit card,Fiber optic,Yes,Yes,2028-10-18,Competitor
+CUST0895,2024-12-30,7,Basic,Month-to-month,23.88,Credit card,Fiber optic,No,No,,
+CUST0896,2024-06-12,41,Basic,One year,18.22,Electronic check,DSL,Yes,No,,
+CUST0897,2024-01-15,28,Pro,Month-to-month,56.15,Electronic check,DSL,Yes,Yes,2026-05-04,Support
+CUST0898,2022-03-21,42,Basic,Month-to-month,25.84,Bank transfer,Fiber optic,Yes,Yes,2025-09-01,Moved/Not needed
+CUST0899,2022-04-13,36,Basic,Two year,20.22,Credit card,Fiber optic,No,Yes,2025-03-28,Moved/Not needed
+CUST0900,2024-06-19,17,Basic,Month-to-month,14.89,PayPal,DSL,No,Yes,2025-11-11,Product features
+CUST0901,2022-01-07,26,Pro,Two year,56.88,Credit card,DSL,Yes,No,,
+CUST0902,2022-03-03,26,Basic,Month-to-month,18.69,Credit card,Fiber optic,No,No,,
+CUST0903,2022-11-17,35,Pro,One year,49.63,Electronic check,Fiber optic,No,Yes,2025-10-02,Price
+CUST0904,2025-07-15,12,Basic,Month-to-month,17.3,Bank transfer,Fiber optic,No,No,,
+CUST0905,2023-11-02,16,Pro,One year,44.55,Credit card,Fiber optic,No,Yes,2025-02-24,Product features
+CUST0906,2024-11-02,12,Basic,Month-to-month,11.66,PayPal,Fiber optic,No,Yes,2025-10-28,Competitor
+CUST0907,2023-08-25,15,Basic,Two year,22.16,Bank transfer,Fiber optic,No,No,,
+CUST0908,2022-09-10,8,Basic,Month-to-month,15.08,PayPal,Fiber optic,Yes,No,,
+CUST0909,2023-06-27,2,Pro,One year,64.3,Electronic check,Fiber optic,Yes,No,,
+CUST0910,2022-05-15,46,Enterprise,Month-to-month,93.57,Credit card,Fiber optic,No,No,,
+CUST0911,2025-01-30,4,Basic,Month-to-month,12.71,PayPal,None,Yes,Yes,2025-05-30,Moved/Not needed
+CUST0912,2022-09-26,43,Basic,Month-to-month,21.55,Electronic check,DSL,No,Yes,2026-04-08,Price
+CUST0913,2023-07-04,1,Enterprise,Month-to-month,106.65,Bank transfer,Fiber optic,Yes,Yes,2023-08-03,Support
+CUST0914,2025-12-02,38,Pro,Month-to-month,49.32,Electronic check,Fiber optic,No,Yes,2029-01-15,Product features
+CUST0915,2024-05-14,16,Basic,One year,21.86,Bank transfer,Fiber optic,Yes,No,,
+CUST0916,2023-11-01,25,Basic,Month-to-month,9.78,Bank transfer,DSL,No,Yes,2025-11-20,Competitor
+CUST0917,2024-03-04,14,Pro,Month-to-month,45.61,Electronic check,DSL,Yes,No,,
+CUST0918,2025-02-19,24,Pro,Month-to-month,43.63,PayPal,Fiber optic,Yes,No,,
+CUST0919,2023-01-07,22,Pro,Month-to-month,39.52,Electronic check,None,No,No,,
+CUST0920,2024-07-18,26,Enterprise,Month-to-month,99.58,Electronic check,DSL,No,No,,
+CUST0921,2025-06-29,19,Basic,One year,7.79,PayPal,DSL,No,Yes,2027-01-20,Product features
+CUST0922,2024-04-16,26,Basic,Month-to-month,12.39,Credit card,Fiber optic,No,Yes,2026-06-05,Competitor
+CUST0923,2023-10-15,40,Basic,Two year,16.31,Bank transfer,Fiber optic,Yes,No,,
+CUST0924,2022-08-01,21,Basic,Month-to-month,14.84,Electronic check,DSL,No,Yes,2024-04-22,Moved/Not needed
+CUST0925,2022-12-29,18,Basic,Month-to-month,20.98,PayPal,Fiber optic,Yes,Yes,2024-06-21,Support
+CUST0926,2025-10-14,7,Basic,Two year,20.53,Bank transfer,DSL,No,Yes,2026-05-12,Price
+CUST0927,2024-03-01,18,Basic,Month-to-month,23.47,Bank transfer,DSL,Yes,No,,
+CUST0928,2023-03-17,7,Pro,Month-to-month,52.76,Electronic check,Fiber optic,Yes,Yes,2023-10-13,Competitor
+CUST0929,2023-09-04,9,Basic,Two year,24.7,Credit card,Fiber optic,No,Yes,2024-05-31,Product features
+CUST0930,2024-04-24,46,Basic,Two year,18.99,Credit card,Fiber optic,No,No,,
+CUST0931,2024-02-25,5,Pro,One year,50.52,Electronic check,Fiber optic,Yes,No,,
+CUST0932,2024-10-19,24,Pro,Month-to-month,51.56,Bank transfer,DSL,No,No,,
+CUST0933,2023-01-12,41,Pro,One year,49.71,Electronic check,DSL,No,No,,
+CUST0934,2024-08-06,46,Pro,Two year,47.01,PayPal,Fiber optic,Yes,No,,
+CUST0935,2023-10-09,8,Pro,Two year,47.34,Electronic check,DSL,No,No,,
+CUST0936,2025-10-06,8,Basic,Month-to-month,14.91,PayPal,Fiber optic,Yes,Yes,2026-06-03,Competitor
+CUST0937,2022-08-19,18,Basic,Month-to-month,21.11,Electronic check,DSL,Yes,No,,
+CUST0938,2022-08-05,27,Pro,Month-to-month,48.53,Electronic check,Fiber optic,No,Yes,2024-10-23,Competitor
+CUST0939,2023-11-06,47,Basic,Month-to-month,15.68,Credit card,DSL,Yes,No,,
+CUST0940,2024-01-13,10,Basic,One year,15.69,Electronic check,DSL,Yes,Yes,2024-11-08,Product features
+CUST0941,2024-10-06,8,Basic,Month-to-month,12.95,PayPal,Fiber optic,No,No,,
+CUST0942,2023-08-14,13,Basic,Month-to-month,23.89,Credit card,DSL,Yes,No,,
+CUST0943,2025-08-27,42,Basic,Month-to-month,19.39,Credit card,DSL,No,Yes,2029-02-07,Price
+CUST0944,2023-11-24,2,Basic,Month-to-month,14.69,Bank transfer,Fiber optic,No,Yes,2024-01-23,Competitor
+CUST0945,2022-07-08,19,Pro,Month-to-month,53.04,Credit card,DSL,Yes,Yes,2024-01-29,Product features
+CUST0946,2022-06-24,6,Enterprise,Month-to-month,96.2,Bank transfer,None,No,Yes,2022-12-21,Price
+CUST0947,2025-11-23,8,Basic,Month-to-month,11.97,Electronic check,DSL,Yes,Yes,2026-07-21,Product features
+CUST0948,2022-07-15,45,Enterprise,Two year,104.11,Bank transfer,Fiber optic,No,Yes,2026-03-26,Price
+CUST0949,2025-10-16,1,Basic,Month-to-month,16.31,Credit card,DSL,Yes,No,,
+CUST0950,2023-02-11,16,Enterprise,Month-to-month,96.96,Bank transfer,None,No,Yes,2024-06-05,Support
+CUST0951,2022-05-17,44,Enterprise,Month-to-month,99.21,Credit card,DSL,Yes,Yes,2025-12-27,Support
+CUST0952,2023-03-22,30,Basic,Month-to-month,24.71,Electronic check,Fiber optic,No,Yes,2025-09-07,Product features
+CUST0953,2024-06-17,4,Pro,Month-to-month,49.1,Credit card,Fiber optic,Yes,Yes,2024-10-15,Product features
+CUST0954,2023-09-18,23,Enterprise,Month-to-month,93.0,Electronic check,DSL,Yes,Yes,2025-08-08,Competitor
+CUST0955,2025-02-21,47,Enterprise,Month-to-month,101.72,Bank transfer,Fiber optic,No,Yes,2029-01-01,Support
+CUST0956,2024-06-11,20,Enterprise,Month-to-month,96.58,Credit card,Fiber optic,No,Yes,2026-02-01,Moved/Not needed
+CUST0957,2023-08-09,26,Pro,One year,58.44,PayPal,Fiber optic,No,No,,
+CUST0958,2024-07-16,26,Basic,Month-to-month,18.99,Bank transfer,DSL,Yes,No,,
+CUST0959,2025-11-20,32,Pro,Month-to-month,37.82,Electronic check,Fiber optic,Yes,No,,
+CUST0960,2023-08-25,9,Pro,One year,50.79,PayPal,DSL,Yes,No,,
+CUST0961,2022-08-13,41,Pro,Month-to-month,58.72,Electronic check,DSL,Yes,No,,
+CUST0962,2023-08-21,48,Basic,Month-to-month,26.88,Bank transfer,None,No,Yes,2027-07-31,Competitor
+CUST0963,2025-05-12,7,Pro,Month-to-month,58.15,Credit card,DSL,No,No,,
+CUST0964,2022-11-14,40,Basic,Month-to-month,13.9,Credit card,Fiber optic,No,Yes,2026-02-26,Moved/Not needed
+CUST0965,2025-10-18,40,Pro,Month-to-month,53.56,Bank transfer,DSL,Yes,Yes,2029-01-30,Support
+CUST0966,2024-05-09,36,Basic,Two year,15.39,Bank transfer,Fiber optic,Yes,Yes,2027-04-24,Moved/Not needed
+CUST0967,2024-05-28,18,Pro,Two year,50.12,Electronic check,None,No,Yes,2025-11-19,Support
+CUST0968,2023-04-09,23,Pro,Two year,42.64,Bank transfer,Fiber optic,Yes,No,,
+CUST0969,2025-09-06,41,Basic,Month-to-month,15.78,Electronic check,DSL,No,No,,
+CUST0970,2022-02-22,8,Pro,Month-to-month,45.62,Credit card,DSL,Yes,No,,
+CUST0971,2023-03-13,40,Basic,Month-to-month,23.49,Bank transfer,Fiber optic,Yes,Yes,2026-06-25,Product features
+CUST0972,2023-09-04,45,Enterprise,Month-to-month,103.0,Electronic check,DSL,No,No,,
+CUST0973,2023-11-29,33,Pro,Month-to-month,50.38,Credit card,Fiber optic,Yes,No,,
+CUST0974,2023-11-24,17,Basic,Month-to-month,12.25,Bank transfer,Fiber optic,No,Yes,2025-04-17,Moved/Not needed
+CUST0975,2022-08-05,27,Basic,Month-to-month,17.44,Electronic check,Fiber optic,Yes,Yes,2024-10-23,Support
+CUST0976,2022-11-26,3,Basic,Month-to-month,15.27,PayPal,Fiber optic,Yes,No,,
+CUST0977,2022-05-20,45,Basic,Month-to-month,23.35,Electronic check,DSL,Yes,Yes,2026-01-29,Price
+CUST0978,2024-04-16,17,Enterprise,One year,104.89,PayPal,None,Yes,No,,
+CUST0979,2023-05-28,3,Pro,Month-to-month,54.28,Electronic check,Fiber optic,No,Yes,2023-08-26,Competitor
+CUST0980,2024-04-06,39,Basic,Two year,15.22,Electronic check,DSL,Yes,Yes,2027-06-20,Moved/Not needed
+CUST0981,2024-05-11,32,Enterprise,Month-to-month,85.3,Electronic check,DSL,No,Yes,2026-12-27,Price
+CUST0982,2024-10-22,30,Basic,Month-to-month,10.17,Credit card,DSL,No,Yes,2027-04-10,Support
+CUST0983,2024-03-10,3,Enterprise,Month-to-month,106.11,PayPal,Fiber optic,Yes,No,,
+CUST0984,2024-08-04,37,Basic,Month-to-month,16.99,Credit card,None,Yes,No,,
+CUST0985,2024-05-07,31,Pro,Month-to-month,45.25,Credit card,Fiber optic,Yes,No,,
+CUST0986,2024-08-11,39,Enterprise,Month-to-month,107.21,Bank transfer,DSL,No,Yes,2027-10-25,Support
+CUST0987,2024-06-19,40,Basic,One year,25.33,PayPal,DSL,No,No,,
+CUST0988,2023-04-07,11,Pro,Month-to-month,49.12,Bank transfer,DSL,Yes,Yes,2024-03-02,Competitor
+CUST0989,2022-12-26,11,Enterprise,Month-to-month,97.53,Electronic check,Fiber optic,No,Yes,2023-11-21,Competitor
+CUST0990,2025-02-24,45,Basic,Two year,18.34,Bank transfer,Fiber optic,No,Yes,2028-11-05,Moved/Not needed
+CUST0991,2023-05-16,26,Basic,Month-to-month,20.14,PayPal,DSL,Yes,No,,
+CUST0992,2024-03-13,22,Pro,One year,57.0,Electronic check,Fiber optic,Yes,No,,
+CUST0993,2022-10-15,14,Basic,Month-to-month,21.11,Electronic check,Fiber optic,No,Yes,2023-12-09,Product features
+CUST0994,2023-09-23,31,Basic,Month-to-month,22.63,Credit card,DSL,Yes,No,,
+CUST0995,2024-02-13,37,Basic,Month-to-month,24.85,PayPal,DSL,Yes,No,,
+CUST0996,2024-07-03,1,Pro,Month-to-month,43.15,Credit card,Fiber optic,Yes,Yes,2024-08-02,Price
+CUST0997,2024-02-09,27,Basic,One year,22.77,PayPal,Fiber optic,No,Yes,2026-04-29,Support
+CUST0998,2023-06-11,48,Basic,Month-to-month,17.53,Bank transfer,None,Yes,Yes,2027-05-21,Price
+CUST0999,2025-11-06,14,Pro,Month-to-month,36.42,Electronic check,Fiber optic,Yes,Yes,2026-12-31,Moved/Not needed
+CUST1000,2024-01-20,14,Pro,Month-to-month,38.36,Electronic check,Fiber optic,Yes,Yes,2025-03-15,Price
